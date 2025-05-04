@@ -1,0 +1,88 @@
+1. tétel - Athéni Demokrácia
+
+Demokrácia kialakulása/előzményei {
+    Demokrácia {
+        -jelentése: népuralom ("démosz" szó)
+        -először Athénban
+        -szabad polgárok irányítanak és részt vehetnek a hatalom intézményeinek munkájában
+    }
+    Kr.e. 7. századig csak arisztokraták lehetnek Athén irányítói
+    => démosz és arisztokrcia küzdelme
+
+    Arisztokraták {
+        -nagybirtokosok
+        -régi múltú családok leszármazottjai
+        -politika jog
+    }
+    Démosz (nem rendelkeztek politikai joggal) {
+        -kisbirtokosok
+        -kézművesek
+        -kereskedők
+    }
+    állam irányítói: arkhónok (arisztokraták közül választották)
+    => arisztokratikus köztársaság
+
+    FORDULAT: görög gyarmatosítások
+    -> kereskedelem fellendülése
+    -> iparcikk export hatására az iparos és kereskedő réteg (démosz) megerősödik
+    -> démosz harcot indít a politikai jogaikért
+}
+Demokrácia kialakulásának folyamata {
+    Drakón arkhón (Kr.e. 621) {
+        -politikai jog VAGYON alapján jár
+        -írásba foglalja a törvényeket
+        -jogi védelem a démosz tagjainak az arisztokráciával szemben
+        -"drákói szigor"
+    }
+    Szolón arkhón (Kr.e. 594) {
+        -politikai jog JÖVEDELEM alapján jár
+        -adósrabszolgaság eltörlése + eladott rabszolgák visszavásárlása
+    }
+    Szolón reformjainak hatására hatalmi egyensúly alakult ki
+    ->Peiszisztratosz hatalomra jutása
+
+    Kr.e. 560-510: a türannisz időszaka (egyeduralom) {
+        -türannosz: Peiszisztratosz (majd fiai)
+        -kedvező volt a démosz számára {
+            -nőttek Athén kereskedelmi kapcsolatai
+            -nagyszabású építkezések
+        }
+    } => démosz erősödése
+
+    Kleisztenész arkhón (Kr.e. 508) {
+        -politikai jog TERÜLETi alapon jár
+        -bevezeti a "phülé-rendszert"
+        -legfőbb hatalmi szerv: Népgyűlés
+        -cserépszavazás bevezetése
+    }
+}
+Demokrácia intézményei, működése és fénykora {
+    Népgyűlés (ekklészia) {
+        -tagjai: minden 20. évnél idősebb athéni születésű férfipolgár
+        -évente ~40-szer
+        -széles hatáskör (háború, béke, szövetségkötés, adók...)
+        -cserépszavazás
+    }
+    Ötszázak Tanácsa (bulé) {
+        -államhivatali szerv
+        -tagjait évente sorsolták
+        -népgyűlések közötti időszakokban tevékenykedett
+        -a népgyűlés döntéseit hajtotta végre
+        -döntéséket nem hozhatott, csak javaslatokat tehettek tagjai
+    }
+    Esküdtbíróság (heliaia): igazságszolgáltatással foglalkozó testület (6000 fő)
+    Sztratégosz {
+        -phülék élén álló katonai parancsnok (10 fő)
+        -szavazással választották
+    }
+    demokrácia fénykora Athénban: Periklész sztratégosz idején
+    Periklész bevezeti a napidíj rendszert
+    ->athéni polgárok napidíjat kaptak közéleti szereplésért
+}
+Demokrácia értékelése {
+    -az ókorban a legszélesebb tömegeket az állam irányításába az athéni demokrácia vonta be
+    -közvetlen demokrácia: a polgárok személyesen kapcsolódtak be az állam irányításába
+    -a politikába csak az athéni társadalom 20-25%-a vehetett részt
+    -nők nem rendelkeztek politikai jogokkal
+    -nem mai értelemben vett demokrácia
+}
