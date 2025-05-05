@@ -1,0 +1,54 @@
+5. tétel - Géza Fejedelem és Szent István
+https://www.youtube.com/watch?v=VlxXZnrdk24
+
+Államalapítás {
+    ---------------------------------------------------------------------------------------
+    | Előzmény:                                                                           |
+    | 895-ben indul meg a Kárpát medence elfoglalása                                      |
+    | kettős honfoglalás elmélete:                                                        |
+    |     -László Gyula szerint a magyarság két hullámban érkezett                        |
+    |                                                                                     |
+    | 900-tól indulnak a kalandozások (rablóhadjáratok)                                   |
+    | -> az Augsburgi vereség után a magyarok véget vetettek az európai kalandozásoknak   |
+    ---------------------------------------------------------------------------------------
+    Géza fejedelem (972-997):
+        -a magyarság megmaradása érdekében a letelepedés mellett dönt
+        -felveszi a kereszténységet -> követeket küld Quedlinburgba -> papokat és katonákat kér
+        -megkeresztelteti magát és fiát, Vajkot
+        -Vajk a bajor Gizellát kapja feleségül
+}
+István uralkodása (997-1038) {
+    ----------------------------------------------------------------------------
+    | Előzmény:                                                                |
+    | ------------------------------------------------------------------------ |
+    | | POGÁNY ÖRÖKLÉSI REND              | KERESZTÉNY ÖRÖKLÉSI REND         | |
+    | | (senioratus)                      | (primogenitura)                  | |
+    | | Árpád-ház legidősebb tagja örököl | legidősebb fiú örököl            | |
+    | |-----------------------------------|----------------------------------| |
+    | | => Koppány                        | => István                        | |
+    | ------------------------------------------------------------------------ |
+    | => Koppányt kivégzik                                                     |
+    | -> 1000-ben István koronát kap II. Szilveszter pápától                   |
+    ----------------------------------------------------------------------------
+    Államszervezés:
+        -István vármegyékre osztja a Kárpát medencét
+        -Ispán: vármegyék vezetői:
+            -adót szed
+            -bíráskodik
+            -védi a vármegyét
+            -nádorispán: ispánok élén áll
+    Egyházszervezés:
+        -István 10 egyházmegyét (püspökséget) alakít Magyarországon
+        -püspök: egyházmegye vezetője
+        -István engedélyt ad két érsekség kialakítása -> Esztergom, Kalocsa
+        -10 falunként építenek 1 templomot
+        -kötelező vasárnapi mise
+        -tized fizetése (a termény 1/10-e)
+    1038-ban halt meg
+}
+István értékelése {
+    -megalapítja a magyar államot
+    -betagolja Magyaroroszágot Európába
+    -utódja: Imre herceg
+    -1038-ban I. László szentté avattatja
+}
