@@ -1,0 +1,57 @@
+8. tétel - Hunyadi Mátyás Uralkodása
+https://www.youtube.com/watch?v=kdkQvYe6eS4
+
+Királlyá választásának körülményei {
+    ---------------------------------------------------------------------------------------------
+    | Előzmény:                                                                                 |
+    | 1456-ban a Nándorfehérvári győzelem után meghalt Hunyadi János, Magyarország főkapitánya  |
+    | -> fia, Hunyadi László örökölte a családi vagyont (a főkapitányi címet nem)               |
+    |                                                                                           |
+    | Mátyás János kisebbik fia, Vitéz János tanítása során humanista műveltségre tett szert    |
+    | -> harcászatot, tudományokat, nyelveket tanult                                            |
+    ---------------------------------------------------------------------------------------------
+    László igényt tartott apja főkapitányi címére de ezt a király, V. László Cillei Ulriknak szánta
+    -> Hunyadi László emberei megölték Cillei Ulrikot
+    => V. László kivégeztette Hunyadi Lászlót, majd Prágába menekült
+    -> Mátyást túszként magával vitte
+
+    V. László Prágában meghalt
+    -> Mátyást választották meg királynak Magyarországon
+}
+Államszervezet {
+    CÉL: erős, báróktól független ország
+    -> 1463-ban visszavásárolta a koronát az NRCS-től (III. Frigyes)
+    -> DE: ha nincs Mátyásnak utódja akkor a magyar trón a Habsburgoké
+    -> ezután kiszorította a bárókat a hatalomból
+
+    bárók helyett szakképzett hivatalnokokat alkalmazott:
+        -a kancelláriában
+        -a királyi tanácsban
+        -a törvényszékben
+    => a királytól kapták a fizetést, tőle függtek
+}
+Államháztartás {
+    CÉL: erős gazdaság és hatékony zsoldoshadsereg felállítása
+
+    Mátyás erőteljesen növelte a királyi bevételeket:
+        -kapuadó helyett füstadó: 18 dénárt nem telkenként hanem házanként kellett fizetni
+        -harmincadvám heylett koronavám: megszűntek a mentességek
+        -új adó: rendkívüli hadiadó: 1 arany akár évente kétszer is
+    => hatalmas bevételek
+    => jól fizetett zsoldoshadsereg jött létre
+}
+Külpolitika {
+    Török politika:
+        -védekezés
+        -megépült a 2. déli végvárrendszer
+    Német-Római császár:
+        -cél a császári korona megszerzése
+        -Mátyás Európa ura lett vona
+        -bevételei elegek lettek volna az Oszmán Birodalom ellen
+    A Cseh Királyság:
+        -a cseh király az NRCS egyik választófejedelme volt
+        -Mátyásnak azért kellett a cseh trón, hogy legyőzze a Habsburg riválisát
+    => 1485-ben elfoglalja Bécset
+    -> itt hal meg törvényes utód nélkül
+    -> törvénytelen fia, Corvin János nem jut trónra
+}
