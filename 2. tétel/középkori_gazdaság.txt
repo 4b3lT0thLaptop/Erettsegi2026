@@ -1,6 +1,73 @@
 2. tétel - A Középkori Gazdaság
+https://www.youtube.com/watch?v=XKn3a8DbG9E
 
 Feudalizmus és uradalmak létrejötte {
+    ---------------------------------------------------------------------
+    | Előzmény:                                                         |
+    | Római Birodalom önálló nagybirtokok sokaságára esett szét         |
+    | => a germán királyok által adományozott földeket továbbosztották  |
+    | => ezáltal hűbéri láncok alakultak ki                             |
+    ---------------------------------------------------------------------
 
+    feudum: fegyveres szolgálathoz kötött hűbérbirtok
+    Feudalizmus:
+        -hatalom alapja a földbirtok
+        -alárendelt viszony:
+            -Hűbérúr (senior): az adományozó
+            -Hűbéres (vazallus): az adományozott
 
+    Jobbányság: a föld művelői:
+        -korábbi rabszolgák
+        -szabad germán parasztok
+
+    Uradalom: királytól kapott földbirtok, élén a földesúrral:
+        -a földművelés színtere
+        -önellátó terület
+        -a földesúr bíráskodhatott a jobbágyai felett (úriszék)
+        -Részei:
+            -Majorság: a földesúr saját kezelésű birtoka:
+                -központjában a földesúr udvarháza állt
+                -az itt megtermelt javak a földesurat illették
+                -Részei:
+                    -vár
+                    -szántóföld
+            -Jobbágytelkek: jobbágyok használatra kapott területe:
+                -az itt megtermelt javak a jobbágyot illették
+                -a jobbágy nem tulajdonos, csak használja a telket
+                -jobbágyi kötelezettségek:
+                    -robot a földesúrnak (ingyenmunk a majorságon)
+                    -terményadó a földesúr részére
+                    -ajándék a földesúrnak
+                    -adó a királynak és az egyháznak (tized)
+                -Részei:
+                    -ház és kert (belsőtelek, a falun belül)
+                    -szántóföld (külsőtelek, a falun kívül)
+            -Közös használatú részek:
+                -Részei:
+                    -tó, folyó
+                    -rét, legelő
+                    -erdő
+                    -malom
+}
+Mezőgazdaság fejlődése {
+    talajváltó rendszer: erdőirtással nyert területek felszántása
+    => sikertelennek bizonyult
+
+    Kétnyomásos gazdálkodás:
+        -a termőföld felét bevetették (szántó), felét ugarnak hagyták (legelő)
+        -évente cserélték
+
+    Háromnyomásos gazdálkodás:
+        -termőfölt 1/3-a: tavaszi szántó
+        -termőfölt 1/3-a: őszi szántó
+        -termőfölt 1/3-a: ugar
+        -évente cserélték
+        -a földterületet "dűlőkre" osztották
+
+    Technológiai fejlődés:
+        -nehéz fordítóeke
+        -borona
+        -szügyhám
+        -szélmalmok, vízmalmok
+    =>13. század végére Európa népessége elérte a 75 milliót
 }
