@@ -16,22 +16,22 @@ Demokrácia kialakulása/előzményei {
         -kereskedők
     -------------------------------------------------------------------------------------
     | Előzmény:                                                                         |
-    | Kr.e. 7. századig csak arisztokraták lehetnek Athén irányítói                     |
-    | => démosz és arisztokrcia küzdelme                                                |
+    | Kr.e. 7. századig csak arisztokraták lehettek Athén irányítói                     |
+    | => démosz és arisztokrácia küzdelme                                               |
     |                                                                                   |
     | állam irányítói: arkhónok (arisztokraták közül választották)                      |
     | => arisztokratikus köztársaság                                                    |
     |                                                                                   |
     | FORDULAT: görög gyarmatosítások                                                   |
     | -> kereskedelem fellendülése                                                      |
-    | -> iparcikk export hatására az iparos és kereskedő réteg (démosz) megerősödik     |
-    | -> démosz harcot indít a politikai jogaikért                                      |
+    | -> iparcikk export hatására az iparos és kereskedő réteg (démosz) megerősödött    |
+    | -> démosz harcot indított a politikai jogaikért                                   |
     -------------------------------------------------------------------------------------
 }
 Demokrácia kialakulásának folyamata {
     Drakón arkhón (Kr.e. 621):
         -politikai jog VAGYON alapján jár
-        -írásba foglalja a törvényeket
+        -írásba foglalta a törvényeket
         -jogi védelem a démosz tagjainak az arisztokráciával szemben
         -"drákói szigor"
     Szolón arkhón (Kr.e. 594):
@@ -50,7 +50,7 @@ Demokrácia kialakulásának folyamata {
 
     Kleisztenész arkhón (Kr.e. 508):
         -politikai jog TERÜLETi alapon jár
-        -bevezeti a "phülé-rendszert"
+        -bevezette a "phülé-rendszert"
         -legfőbb hatalmi szerv: Népgyűlés
         -cserépszavazás bevezetése
 }
@@ -61,7 +61,7 @@ Demokrácia intézményei, működése és fénykora {
         -széles hatáskör (háború, béke, szövetségkötés, adók...)
         -cserépszavazás
     Ötszázak Tanácsa (bulé):
-        -államhivatali szerv
+        -államhivatalmi szerv
         -tagjait évente sorsolták
         -népgyűlések közötti időszakokban tevékenykedett
         -a népgyűlés döntéseit hajtotta végre
@@ -73,7 +73,7 @@ Demokrácia intézményei, működése és fénykora {
         -szavazással választották
 
     demokrácia fénykora Athénban: Periklész sztratégosz idején
-    Periklész bevezeti a napidíj rendszert
+    Periklész bevezette a napidíj rendszert
     -> athéni polgárok napidíjat kaptak közéleti szereplésért
 }
 Demokrácia értékelése {

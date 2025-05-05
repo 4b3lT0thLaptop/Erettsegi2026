@@ -4,18 +4,18 @@ https://www.youtube.com/watch?v=zCvWZdBoljo
 Az iszlám kialakulása {
     -----------------------------------------------------------------
     | Előzmény:                                                     |
-    | az arab félszigeten születik a vallás                         |
-    | -> az északi területen haladnak át a karavánutak              |
-    | -> a kereskedők különböző vallások területén haladnak át      |
+    | az arab félszigeten született a vallás                        |
+    | -> az északi területen haladtak át a karavánutak              |
+    | -> a kereskedők különböző vallások területén haladtak át      |
     |                                                               |
-    | arab (heduin) törzsek a vézért harcolnak egymással            |
+    | arab (heduin) törzsek a vízért harcoltak egymással            |
     | -> egyesíteni kell a törzseket                                |
     -----------------------------------------------------------------
     Mohamed:
         -tevehajcsárból lett kereskedő
-        -álmában megszólítja Gábriel arkangyal és új vallás alapítására kéri
+        -álmában megszólította Gábriel arkangyal és új vallás alapítására kérte
         -Mekka piacterein prédikált, sok követőre lelt a szegények között
-        -ellenségei elől Medinába menekül 622-ben (hidzsra) -> vallás kezdete
+        -ellenségei elől Medinába menekült 622-ben (hidzsra) -> vallás kezdete
     => vallás nagy léptékű terjedése
 }
 A vallás {
@@ -36,13 +36,13 @@ A vallás {
             -nincs disznóevés
             -nincs alkohol
             -szent háború (dzsihád) -> vallás terjesztése
-    => összefogja a törzseket -> terjeszkedés indul
+    => összefogta a törzseket -> terjeszkedés indul
     -> Észak-Afrika, Gibraltár
-    -> Martell Károly megállítja őket 732-ben Poitiers-nél
+    -> Martell Károly megállította őket 732-ben Poitiers-nél
     -> központ: Bagdad és Damaszkusz
 }
 Jellemzők {
     -kalifa: vallási és állami vezető
     -bíráskodás alapja a Korán
-    -elterjed az arab kultúra1
+    -elterjedt az arab kultúra
 }

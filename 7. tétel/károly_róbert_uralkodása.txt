@@ -1,0 +1,41 @@
+7. tétel - Károly Róbert Uralkodása
+https://www.youtube.com/watch?v=JZsTMKftDlY
+
+Károly Róbert uralkodása (1308-1342) {
+    -------------------------------------------------------------------------------------------------
+    | Előzmény:                                                                                     |
+    | III. András halála: kihalt az Árpád-ház fiú ágon (1301)                                       |
+    | -> 1301-1308: inerregnum: király nélküli időszak, trónharcok                                  |
+    | -> trónkövetelők: leányági Árpád-háziak:                                                      |
+    |     -Premysl Vencel, cseh                                                                     |
+    |     -Wittelsbach Ottó, bajor                                                                  |
+    |     -Anjou Károly, nápolyi                                                                    |
+    | => a pápa és magyar főpapok támogatásának köszönhetően Anjou Károly került ki győztesként     |
+    | Magyarországot ekkor feudális anarchia jellemezte: kiskirályok uralkodtak                     |
+    | -> CÉL: a királyi hatalom biztosítása                                                         |
+    -------------------------------------------------------------------------------------------------
+    hosszas harcokat vívott a megerősödött földesurakkal (kiskirályok)
+    -> 1312-ben Rozgonynál legőzte Csák Mátét (utolsó kiskirály)
+    -> Csák Máté 1321-es halálával véget ért a feudális anarchia Magyarországon
+
+    Gazdaságpolitikája:
+        -30 év alatt Európa vezető országává tette Magyarországot
+        -segítője: Nekcsei Demeter
+        -Intézkedései:
+            -bányabér (urbura): ha a földesúr a földjén bányát talál és jelenti, akkor a bányatársaságok
+                                által a királynak fizetett bányabér 1/3-át megkapja
+                => a földesurak érdekelté váltak a bányák feltárásában
+                => hatalmas királyi aranybevétel
+            -aranyforint: a beáramló aranyból, firenzei mintára értékálló aranyforintot veretett
+                => megszűnt a pénzrontásból származó haszna a kamarának
+                => új adófajtára volt szükség a kiesés pótlására -> kapuadó
+            -kapuadó: minden olyan jobbágyház után 18 dénárt kellett fizetni amelynek kapuján egy
+                      szénaszekér át tudott haladni -> a nemesek adómentesek maradtak
+            -harmincadvám: újfajta külkereskedelmi vám
+            -támogatta a szabad királyi városok fejlődését (a városokra támaszkodott a bárókkal szemben)
+            -zsoldosok helyett bandériumok (főurak, főpapok saját pénzükön állítottak föl kisebb csapatokat)
+
+    Külpolitika:
+        -1335-ben részt vett a visegrádi királytalálkozón
+        -megszerezte Nagy Lajos fiának a lengyel trónt
+}

@@ -14,7 +14,7 @@ Magyarság őstörténete {
 
     Magyarság:
         -lovas, nomád nép
-        -álattenyésztéssel foglalkozik
+        -álattenyésztéssel foglalkoztak
         -jurtákban éltek
         -a legelők után vándoroltak
 }
@@ -25,18 +25,18 @@ A vándorlás állomásai {
         -laza törzsszövetségben éltek
     Levédia (750):
         -Fekete-tenger északi része
-        -a Kazár Birodalom fennhatósága alá kerül a magyarság zsoldosként
-        -átveszik tőlük:
+        -a Kazár Birodalom fennhatósága alá került a magyarság zsoldosként
+        -átvették tőlük:
             -földművelést
             -rovásírást
-            -kettős fejedelemség rendszere:
+            -kettős fejedelemség rendszerét:
                 -Kende: szellemi vezető
                 -Gyula: tényleges vezető
     Etelköz (830):
         -a Dnyeper és a Duna között
-        -velük tart 3 kazár törzs
-        -itt vérszerződést kötnek a Kárpát-medence elfoglalására
-        -Álmost fejedelemmé választják
+        -velük tartott 3 kazár törzs
+        -itt vérszerződést kötöttek a Kárpát-medence elfoglalására
+        -Álmost fejedelemmé választották
     => 895 honfoglalás
 }
 Honfoglalás {
@@ -45,12 +45,12 @@ Honfoglalás {
         -kényszerű honfoglalás: besenyők elől menekültek
 
     a Kárpát medencében avarok és szlávok laktak
-    -> magyarok legyőzik az itt élőket
-    -> kalandozásba fognak
+    -> magyarok legyőzték az itt élőket
+    -> kalandozásba fogtak
     => sikerek (Itália, Bizánc)
-    -> kiismerik a harcmodorukat
+    -> kiismerték a harcmodorukat
     -> két vereség a keleti frankoktól:
         -Merseburg (933)
         -Augsburg (955)
-    => végleg letelepednek a Kárpát medencében
+    => a magyarok végleg letelepedtek a Kárpát medencében
 }

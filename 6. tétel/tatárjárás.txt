@@ -7,37 +7,38 @@ IV. Béla tatárjárás előtti politikája {
     | II. András halála után fia, IV. Béla került trónra  |
     -------------------------------------------------------
     Béla szakítani próbált apja politikájával (ellenezte a birtokadományozást)
-    -> erőszakos birtokvisszavételbe kezd
-    -> elveszíti a bárók bizalmát, nem adnak neki több katonát
+    -> erőszakos birtokvisszavételbe kezdett
+    -> elveszítette a bárók bizalmát, nem adtak neki több katonát
 
-    Julianus barát hírt hoz a tatárokról (mongolok)
-    -> Béla behívja és letelepíti a hadra fogható kunokat
-    -> DE: a bárók megölik a kun kánt, Kötönyt
-    => kunok kivonulnak -> nincs hadsereg
+    Julianus barát hírt hozott a tatárokról (mongolok)
+    -> Béla behívta és letelepítette a hadra fogható kunokat
+    -> DE: a bárók megölték a kun kánt, Kötönyt
+    => kunok kivonultak -> nincs hadsereg
 
-    Kijev elesése után ébred rá igazán a veszélyre, de a bárók továbbra is bizalmatlanok a királlyal szemben
+    Béla Kijev elesése után ébredt rá igazán a tatár veszélyre
+    -> DE: a bárók továbbra is bizalmatlanok voltak a királlyal szemben
 }
 A tatárjárás (1241-1242) {
-    a Vereckei-hágón keresztül érkeznek a Kárpát medencébe a tatárok Batu kán vezetésével
-    -> elsöprik Tomaj Dénes nádor hadát
+    a tatárok a Vereckei-hágón keresztül érkeztek a Kárpát medencébe Batu kán vezetésével
+    -> elsöpörték Tomaj Dénes nádor ottani hadát
     => szabad út az ország belsejébe
 
     döntő ütközet: Muhi-csata (1241 ápr. 12)
     -> hatalmas magyar vereség
-    -> IV. Béla nyugat felé menekül (Dalmáciában, Trau várában vészelte át a tatárjárást)
-    => a tatárok feldúlják a Dunántúlt, a tél beállta után átkelnek a Dunán de nem bírnak a várakkal
+    -> IV. Béla nyugat felé menekült (Dalmáciában, Trau várában vészelte át a tatárjárást)
+    => a tatárok feldúlták a Dunántúlt, a tél beállta után átkeltek a Dunán de nem bírtak az ottani várakkal
 
-    1242-ben meghal a tatár nagykán
-    => a tatárok elhagyják Magyarországot
-    => IV. Béla visszatér Magyarországra
+    1242-ben meghalt a tatár nagykán
+    => a tatárok elhagyták Magyarországot
+    => IV. Béla visszatért Magyarországra
 }
 IV. Béla tatárjárás utáni politikája {
-    FORDULAT: Béla szakít korábbi politikájával
-    -> birtokadományozásba kezd, de csak hűbérbe és várépítési kötelezettséggel ad földbirtokot
-    -> a városoknak falat kell építeni
-    -> megerősíti a köznemesek Aranybullában szereplő szabadságjogait
+    FORDULAT: Béla szakított korábbi politikájával
+    -> birtokadományozásba kezdett, de csak hűbérbe és várépítési kötelezettséggel adott földbirtokot
+    -> a városoknak falat kellett építeni
+    -> megerősítette a köznemesek Aranybullában szereplő szabadságjogait
 
     betelepítés: szlovákok, románok, kunok
-    -> beolvadnak a magyarságba
+    -> beolvadtak a magyarságba
     => IV. Béla: "második honalapító"
 }
