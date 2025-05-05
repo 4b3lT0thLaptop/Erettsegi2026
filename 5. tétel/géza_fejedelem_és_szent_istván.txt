@@ -44,11 +44,13 @@ István uralkodása (997-1038) {
         -10 falunként építenek 1 templomot
         -kötelező vasárnapi mise
         -tized fizetése (a termény 1/10-e)
-    1038-ban halt meg
+    Fia, Imre herceg vadászat során meghalt
+    => nincs törvényes utód
+    István 1038-ban halt meg, utód nélkül
 }
 István értékelése {
     -megalapítja a magyar államot
     -betagolja Magyaroroszágot Európába
-    -utódja: Imre herceg
+    -Szent László követte a trónon
     -1038-ban I. László szentté avattatja
 }
