@@ -1,0 +1,58 @@
+9. tétel - Mohács és Magyarország Három Részre Szakadása
+https://www.youtube.com/watch?v=0WLxUin8QD4
+
+Mohácsi csata előtt {
+    -------------------------------------------------------------
+    | Előzmény:                                                 |
+    | Mátyás halála után Jagelló (II.) Ulászló került trónra    |
+    | -> gyenge uralkodó, a bárók irányítottak                  |
+    | -> az adókat beszedték de magukra fordították             |
+    | => gyengült a végvárrendszer és a Fekete Sereg            |
+    -------------------------------------------------------------
+    1505: rákosi végzés: ha hihal a Jagelló-ház, Magyarországnak csak magyar királya lehet
+    1514: Dózsa féle parasztfelkelés -> leverték
+    1515: Habsburg-Jagelló házassági szerződés: a rákosi végzés ellenében kötötték meg
+    II. Ulászlót fia, II. Lajos váltja a trónon
+    1521: Nándorfehérvár török kézre kerülése
+    döntő ütközet: Mohácsi-csata (1526)
+    -> Szulejmán hatalmas győzelmet aratott
+    -> meghaltak a magyar főurak, főpapok és a király: II. Lajos
+}
+A kettős királyválasztás {
+    ----------------------------------------------------------------
+    | Szapolyai János            | Habsburg Ferdinánd              |
+    |----------------------------|---------------------------------|
+    | a rákosi végzés alapján    | a házassági szerződés alapján   |
+    | Szulejmán (OB) támogatja   | a NRCS (HB) támogatja           |
+    ----------------------------------------------------------------
+    => trónharc -> OB-HB erőegyensúlyban állt
+    => váradi béke (1538): Magyarország kettészakadt
+    -> ha Szapolyai meghal, az országrésze Ferdinándé lesz
+
+    Szapolyainak fia született (János Zsigmond), majd meghalt
+    => Ferdinánd a váradi békére hivatkozva elfoglalta volna Magyarországot
+    -> DE: a Szapolyai-család ellenkezett
+    => az újabb harc elkerülése érdekében Szulejmán megszállta Budát (1541 aug. 29)
+    -> Magyarország 3 részre szakad
+
+    Fráter György (Szapolyai szövetségese) Ferdinándnak ajánlotta Magyarországot ha egyesíti
+    => válaszul a törökök 3 hadjáratban várháborúba kezdtek, hogy biztosítsák a hódoltság határait
+       (1552 Eger; 1566 Szigetvár)
+    => drinápolyi béke (1568): az OB és HB fixálta a határokat
+}
+Magyarország részei {
+    Királyi Magyarország (Észak- és Nyugatmagyarország):
+        -Habsburg Birodalomé
+        -ura a Habsburg császár
+        -megmaradt az országgyűlés és a vármegyék
+    Hódoltság (Magyarország középső része):
+        -Oszmán Birodalomé
+        -ura a szultán (helytartó: budai pasa)
+        -török közigazgatás és adórendszer
+    Erdélyi Fejedelemség (Erdély és Partium):
+        -önálló terület
+        -török függés: éves adó, külföldi hadjáratok bejelentése a szultánnak
+    => 1570: speyeri szerződés
+    -> János Zsigmond lemondott a magyar koronáról
+    -> cserébe erdély fejedelme lehetett
+}

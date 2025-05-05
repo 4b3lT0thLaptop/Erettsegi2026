@@ -38,7 +38,7 @@ Királlyá választásának körülményei {
         -harmincadvám heylett koronavám: megszűntek a mentességek
         -új adó: rendkívüli hadiadó: 1 arany akár évente kétszer is
     => hatalmas bevételek
-    => jól fizetett zsoldoshadsereg jött létre
+    => jól fizetett zsoldoshadsereg jött létre (Fekete Sereg)
 }
 Külpolitika {
     Török politika:
