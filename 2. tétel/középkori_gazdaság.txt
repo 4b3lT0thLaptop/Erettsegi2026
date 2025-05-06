@@ -69,5 +69,5 @@ Mezőgazdaság fejlődése {
         -borona
         -szügyhám
         -szélmalmok, vízmalmok
-    =>13. század végére Európa népessége elérte a 75 milliót
+    => 13. század végére Európa népessége elérte a 75 milliót
 }

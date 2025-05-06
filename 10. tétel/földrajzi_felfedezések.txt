@@ -1,0 +1,66 @@
+10. tétel - A Földrajzi Felfedezések
+https://www.youtube.com/watch?v=F4nSgNlk24A
+
+A felfedezések feltételei {
+    -----------------------------------------------------------------------------------------
+    | Előzmény:                                                                             |
+    | túlnépesedés Európában (új területek kellettek)                                       |
+    | -> kimerültek a nemesfénybányák Európában (nem tudtak fizetni a luxuscikkekért)       |
+    |                                                                                       |
+    | 1453-ban a törökök elfoglalták a Boszporuszt (Konstantinnápoly)                       |
+    | -> hatalmas vámokat szednek                                                           |
+    | => új kereskedelmi útvonalakra volt szükség Európa és a távol kelet között            |
+    -----------------------------------------------------------------------------------------
+    térkép, iránytű, szextáns megjelenése
+    => segítették a tájékozódást az óceánon/tengeren
+    -> karavellák épültek
+    -> hajósiskolákat alakítottak
+
+    elterjedtek az elméletek a Föld gömb alakjával kapcsolatban
+    -> Toscanelli térképe
+    => gyakorlati bizonyítás a cél
+}
+A felfedező utak {
+    Portugália:
+        -CÉL: Afrika megkerülésével elérni Indiát
+        -Diaz: elérte Afrika déli csücskét (Jóreménység-fok)
+        -Vasco da Gama: Afrika megkerülésével elérte Indiát
+    Spanyolország:
+        -Kolombusz: Nyugat felé akarta elérni Indiát
+            => Amerikába ütközött -> 1492: az újkor kezdete
+        -Magellán: expedíciója megkerülte a Földet
+    => a felfedezők (konkvisztádorok) kiirtották az őslakosokat: aztékok, maják, inkák
+    Tordesillas-i szerződés:
+        -a pápa javaslatára kötötték meg
+        -a Zöld-foki szigetekről 4000 km-re nyugatra vonalat húztak a térképre
+        -a felfedezett területek:
+            -vonaltól nyugatra: a spanyoloké
+            -vonaltól keletre: a portugáloké
+}
+A felfedezések következményei {
+    arany áramlott Európába
+    -> csökkent az értéke
+    => infláció
+    => nőttek az árak (árforradalom)
+
+    a Földközi-tenger helyett az Atlanti-óceán lett a fő kereskedelmi útvonal
+    => kereskedelmi háromszök alakult ki
+    ------------------------------------------
+    |                [Európa]                |
+    |                 />   \                 |
+    |   arany,cukor /        \ alkohol       |
+    |             /            \             |
+    |           /                \>          |
+    |      [Amerika]<-----------[Afrika]     |
+    |                 rabszolga              |
+    ------------------------------------------
+    új növények érkeztek: paradicsom, paprika, burgonya, kukorica, élvezeti cikkek
+    céhek helyett manufaktúrák alakultak
+    -> munkamegosztás
+    -> nagyobb mennyiség, alacsonyabb minőség
+
+    Európai munkamegosztás:
+        -Nyugat-Európa iparral foglalkozik
+        -Kelet-Európa mezőkazdasággal foglalkozik
+            => marad a jobbágyrendszer
+}

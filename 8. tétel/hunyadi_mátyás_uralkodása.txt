@@ -51,7 +51,7 @@ Külpolitika {
     A Cseh Királyság:
         -a cseh király az NRCS egyik választófejedelme volt
         -Mátyásnak azért kellett a cseh trón, hogy legyőzze a Habsburg riválisát
-    => 1485-ben elfoglalja Bécset
-    -> itt hal meg törvényes utód nélkül
-    -> törvénytelen fia, Corvin János nem jut trónra
+    => 1485-ben elfoglalta Bécset
+    -> itt halt meg törvényes utód nélkül
+    -> törvénytelen fia, Corvin János nem jutott trónra
 }

@@ -1,0 +1,87 @@
+1. tétel - Athéni Demokrácia {
+    -demokrácia: szabad polgárok irányítanak és részt vehetnek a hatalom intézményeinek munkájában
+    -arisztokraták: nagybirtokosok, övék a politikai jogy
+    -démosz: kézművesek, kereskedők, nem rendelkeznek politikia joggal
+    -arkhónok: állam irányítói
+    -türannisz: egyeduralom időszaka
+    -phülé-rendszer: Athént 10 közigazgatási területre osztotta, politikai jog területi alapon jár
+    -phülé (mint egység): egy városrész, egy tengerparti rész, és egy rész a belső területből
+    -népgyűlés: széles hatáskörű intézmény, tagja minden 20 évnél idősebb athéni férfipolgár
+    -ötszázak tanácsa: államhivatali szerv, tagjait évente sorsolják
+    -esküdtbíróság: igazságszolgáltatással foglalkozó testület
+    -sztratégosz: phülék élén álló katonai parancsnok, szavazással választják
+    -napidíj rendszer: athéni polgárok napidíjat kaptak közéleti szereplésért
+}
+2. tétel - A Középkori Gazdaság {
+    -feudum: fegyveres szolgálathoz kötött hűbérbirtok
+    -feudalizmus: a hatalom alapja a földbirtok
+    -hűbérúr (senior): az adományozó
+    -hűbéres (vazallus): az adományozott
+    -hűbéri lánc: hűbérúr-hűbéresi viszonyok által létrejött hierarchia
+    -jobbágyság: föld művelői, korábbi rabszolgák, parasztok
+    -uradalom: királytól kapott földbirtok, élén a földesúrral, földművelés színtere
+    -majorság: a földesúr saját kezelésű birtoka
+    -jobbágytelek: jobbágyok használatra kapott területe
+    -talajváltó rendszer: erdőirtással nyert területek felszántása
+    -kétnyomásos gazdálkodás: a termőföld felét bevetették, felét ugarnak hagyták
+    -háromnyomásos gazdálkodás: dűlőkre osztott földterület, tavaszi-őszi vetés
+}
+3. tétel - Az Iszlám {
+    -heudinok: arab törzsek
+    -monoteista vallás: egyistenhit
+    -iszlám: jelentése "belenyugvás", istene Allah, prófétája Mohamed, szent könyve Korán
+    -hidzsra: iszlám kezdete, Mohamed 622-ben Mekkából Medinába menekül
+    -dzsihád: szent háború, célja a vallás terjesztése
+    -kalifa: vallási és állami vezető
+}
+4. tétel - A Magyar Őstörténet {
+    -finnugor eredettörténet: legelfogadottabb nézet a magyarság eredetére
+    -(ős)magyarság: álattenyésztéssel foglalkozó lovas, nomád nép
+    -Magna Hungaria: mai Baskíria területe, Urál déli lejtőjének a nyugati oldala
+    -Levédia: Fekete-tenger északi része, Kazár Birodalom fennhatósága alatt áll
+    -Etelköz: jelentése "folyóköz", Dnyeper és Duna közötti terület
+    -kényszerű honfoglalás: az elmélet szerint a honfoglaló magyarok a besenyők elől menekültek
+}
+5. tétel - Géza Fejedelem és Szent István {
+    -senioratus: pogány öröklési rend, az Árpád-ház legidősebb tagja örökli a trónt
+    -primogenitura: keresztény öröklési rend, az uralkodó legidősebb fia örököl
+    -ispán: vármegye vezetője, adót szed, bíráskodik, védi a vármegyét
+    -nádorispán: ispánok élén álló személy
+    -püspök: egyházmegye vezetője
+    -egyházi tized: adófajta, a termény 1/10-ed része az egháznak jár
+}
+6. tétel - A Tatárjárás {
+    -tatárok: mongol nomád nép
+    -kunok: tatárok elől menkülő nép
+}
+7. tétel - Károly Róbert Uralkodása {
+    -feudális anarchia: kiskirályok uralkodása Magyarországon
+    -bányabér: ha a földesúr a földjén bányát talál és jelenti, akkor a bányatársaságok által a
+               királynak fizetett bányabér 1/3-át megkapja
+    -aranyforint: firenzei mintára készült fizetőeszköz
+    -kapuadó: minden olyan jobbágyház után 18 dénárt kellett fizetni amelynek kapuján egy
+              szénaszekér át tudott haladni -> a nemesek adómentesek maradtak
+    -harmincadvám: újfajta külkereskedelmi vám
+    -bandériumok: főurak, főpapok saját pénzükön állítottak föl kisebb csapatokat
+    -visegrádi királytalálkozó: Károly róbert 1335-ben megszerzi fiának (Nagy Lajos) a lenygel trónt
+}
+8. tétel - Hunyadi Mátyás Uralkodása {
+    -zsoldoshadsereg: állandó fizetett hadsereg
+    -koronavám: harmincadvám heylett, megszűntek a mentességek
+    -füstadó: kapuadó helyett, telkek helyett házanként kellett fizetni
+    -rendkívüli hadiadó: 1 arany évente akár kétszer is
+    -Fekete Sereg: Hunyadi Mátyás zsoldoshadserege
+}
+9. tétel - Mohács és Magyarország Három Részre Szakadása {
+    -rákosi végzés: ha hihal a Jagelló-ház, Magyarországnak csak magyar királya lehet
+    -Habsburg-Jagelló házassági szerződés: a rákosi végzés ellenében kötötték meg
+    -kettős királyválasztás: Szapolyai János és Habsburg Ferdinánd trónharca
+    -váradi béke: Magyarország kettészakad, ha Szapolyai meghal, az ország Ferdinándé lesz
+    -drinápolyi béke: Oszmán Birodalom és Habsburg Birodalom fixálja határait
+    -Királyi Magyarország: Észak- és Nyugatmagyarország, Habsburg Birodalomé
+    -Hódoltság: Magyarország középső része, Oszmán Birodalomé
+    -Erdélyi Fejedelemség: Erdély és Partium, török vazallusállam
+    -speyeri szerződés: János Zsigmond lemond a királyi címről
+}
+10. tétel - A Földrajzi Felfedezések {
+}
