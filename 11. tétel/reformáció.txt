@@ -1,0 +1,61 @@
+11. tétel - A Reformáció
+https://www.youtube.com/watch?v=tlsZRAecO7A
+
+Luther Márton fellépése {
+    ---------------------------------------------------------------------
+    | Előzmény:                                                         |
+    | egyház fényűzése                     -> ideológiai ok             |
+    | egyházi adók, nagy egyházi birtokok  -> anyagi ok                 |
+    | egyház züllése                       -> erkölcsi ok               |
+    | További okok:                                                     |
+    |     -nem tartották be a cölibátust                                |
+    |     -gyakorolták a szimóniát (egyházi javak adás-vétele)          |
+    |                                                                   |
+    | FŐ KIVÁLTÓ OK: búcsúcédulák árusítása                             |
+    | -> pénzért árulták a bűnbocsánatot (X. Leo pápa utasítására)      |
+    ---------------------------------------------------------------------
+    Luther Márton: Német-Római császárságban élő prédikátor
+    -> 1517 ok. 31-én kiszögezte 95 pontját a templomkapura Wittenbergben
+    -> fellépett a búcsúcédulák és a pápai hatalom ellen
+
+    Luther követelései:
+        -"sola fide": csak a hit által nyerhető bűnbocsánat
+        -nincs szükség papokra
+        -az egyháznak ne legyen vagyona
+}
+A hatalom Luther ellen {
+    a pápa kiátkozta Luthert
+    1521: wormsi birodalmi gyűlés: a Német-Római császár is kiátkozta Luthert
+    => Bölcs Frigyes pfalzi fejedelem Luthert Worfburg várában rejtette el
+    -> rejtőzködése alatt Luther németre fordította a bibliát
+
+    1529: speyeri birodalmi gyűlés
+    -> Luther követői megmaradhattak vallásukban, de nem terjeszthették
+    => Luther hívei protestálásba kezdtek
+
+    1555: augsburgi vallásbéke
+    -> a Német-Római Császárság fejedelemségeinek vezetői dönthettek vallásukról
+}
+Reformáció irányzatai {
+    Lutheránius, Evangélikus: alapja az Újszövetség
+    Anabaptisták, Újrakeresztelők:
+        -vezető: Münzer Tamás
+        -cél: felnőttkori újrakeresztelés
+    Kálvinisták, Reformátusok:
+        -vezető: Kálvin János
+        -egyszerűbb szertartások és templomok
+        -alulról építkező egyház
+        -pedesztrináció elve: eleve elrendeltetés
+    Antitrinitáriusok, Szentháromságtagadók:
+        -vezető: Szervét Mihály
+        -tagadják Jézus isteni mivoltát
+}
+Az ellenreformáció {
+    CÉL: a katolikus egyház megújulása
+    -> ezt a Tridenti zsinaton tárgyalták (1545-1563)
+    -> eltörölték a búcsúcédulát
+    -> elküldték a nem megfelelő papokat
+    -> a papokat tanították
+    -> megalakult a jezsuita rend, ami mint ezt segítette
+    -> barokk templomok épülnek
+}
