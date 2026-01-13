@@ -1,0 +1,62 @@
+Vörösmarty Mihály (1.21)
+
+Életrajzi háttér - Vörösmarty Mihály (1800-1855) {
+    - 1800-ban született Pesten, polgári családban.
+    - Tanulmányai: jogi és klasszikus képzés, irodalmi érdeklődés fiatalon.
+    - Pályakezdés: versekkel már 1820-as években jelentkezett, rövid prózai próbálkozások.
+    - Kapcsolata a reformkor irodalmi életével, költőtársai: Kölcsey, Kazinczy.
+    - 1848-49-es forradalom idején aktív közéleti szerepet vállalt.
+    - Halála 1855-ben, Budapesten.
+}
+Pályakép {
+    - A magyar klasszikus romantika egyik legnagyobb alakja.
+    - Fő témái:
+      - nemzeti identitás, hazaszeretet
+      - múlt és jelen viszonya
+      - az emberi lét és sors dilemmái
+    - Stílusjegyek:
+      - klasszikus formák és lírai kifejezés ötvözete
+      - magas, emelkedett nyelvezet
+      - erőteljes képi világ
+      - dramatikus és epikus elemek
+    - Fontos művei:
+      - Szózat
+      - Csongor és Tünde
+      - Zalán futása
+      - Előhang a Magyar költészethez
+      - A vén cigány
+    - Szerepe:
+      - a magyar nemzeti költészet megteremtője
+      - a hazaszeretet és a társadalmi felelősség költője
+}
+Szózat {
+    - Megjelenés: 1836
+    - Műfaj: nemzeti lírai költemény
+    - Téma: hazaszeretet, nemzeti összetartozás, a magyar nemzet jövője.
+    Cselekmény / Tartalom:
+    - A költő megszólítja a magyar népet, figyelmeztet a hazaszeretet fontosságára.
+    - A múlt dicsősége és a jövő reménye összekapcsolódik.
+    - Felhívás a hűségre, áldozatvállalásra.
+    Stílus:
+    - Emelkedett, klasszikus formák
+    - Ritmusos, dallamos, felhívó hangvétel
+    - Sorok ismétlése fokozza a drámai hatást
+    - Képzettársítások, allegóriák a nemzet és a haza kifejezésére
+    Összehasonlítás Kolcsey Himnuszával:
+    - Himnusz:
+      - imádság a nemzetért, múlt fájdalmainak megidézése
+      - lírai, áhítatos hangvétel
+      - szomorú, elmélkedő tónus
+    - Szózat:
+      - felhívás és cselekvésre ösztönzés
+      - emelkedett, aktív hangvétel
+      - jövőbe tekintő remény és hűség hangsúlya
+    - Mindkettő nemzeti költemény, a magyar romantika klasszikusai, de a Szózat cselekvésre ösztönöz, a Himnusz elmélkedő.
+    Üzenet:
+    - A költő a hazaszeretet fontosságát hangsúlyozza.
+    - Az összetartozás és a nemzeti identitás megőrzése kulcsfontosságú.
+}
+Összegzés:
+- Vörösmarty Mihály a magyar romantika és klasszikus költészet kiemelkedő alakja.
+- A Szózat a nemzeti költészet egyik csúcsteljesítménye, a Himnusszal együtt a magyar nemzet szimbolikus költeménye.
+- Költészete a hazaszeretet, a nemzeti öntudat és az emberi értékek kifejezője.
