@@ -1,0 +1,56 @@
+Mikszáth Kálmán (1.19)
+
+Élerajzi háttér - Mikszáth Kálmán (1847-1910) {
+    - 1847-ben született Szklabonyán, elszegényedett kisnemesi családban.
+    - Tanulmányait gimnáziumban, majd jogi tanulmányokat Pesten végezte.
+    - Pályakezdése nehéz volt, kezdetben sikertelen írói próbálkozások jellemezték.
+    - Újságíróként dolgozott Szegeden és Budapesten.
+    - Az áttörést a Tót atyafiak (1881) és A jó palócok (1882) hozta meg.
+    - Országgyűlési képviselő, a Magyar Tudományos Akadémia tagja lett.
+    - 1910-ben hunyt el Budapesten.
+}
+Pályakép {
+    - A 19. századi magyar próza kiemelkedő alakja.
+    - Írásművészete a realizmushoz kapcsolódik, erősen anekdotikus jellegű.
+    - Fő témái:
+      - a kisnemesség hanyatlása
+      - a vármegyei világ visszásságai
+      - múlt és jelen ellentéte
+    - Stílusjegyek:
+      - irónia, szatíra, humor
+      - élőbeszédszerű nyelvezet
+      - mindentudó elbeszélő
+    - Fontos művei:
+      - Tót atyafiak
+      - A jó palócok
+      - Beszterce ostroma
+      - Különös házasság
+      - A Noszty fiú esete Tóth Marival
+      - Szent Péter esernyője
+}
+Beszterce ostroma {
+    - Megjelenés: 1894
+    - Műfaj: regény
+    - Témája: a múltba ragadt kisnemesség tragikomikus sorsa.
+    Cselekmény:
+    - Pongrácz gróf középkori életformát utánozva él.
+    - Szembefordul a modern világgal, jelképesen „ostromolja” Besztercét.
+    - A város lakói kihasználják különcségét.
+    - Világa összeomlik, elszigetelődik.
+    Szereplők:
+    - Pongrácz gróf: különc, a változásra képtelen kisnemes.
+    - Beszterce lakói: alkalmazkodó, számító közösség.
+    Témák:
+    - múlt és jelen ellentéte
+    - a nemesség hanyatlása
+    - az elzárkózás következményei
+    Stílus:
+    - ironikus, szatirikus hangvétel
+    - anekdotikus szerkezet
+    - humor és tragikum együtt
+    Cím jelentése:
+    - Az „ostrom” jelképes küzdelem a modern világ ellen.
+    Összegzés
+    - Mikszáth humorral és iróniával ábrázolja kora társadalmát.
+    - A Beszterce ostroma egyszerre szórakoztató és kritikus regény.
+}

@@ -1,0 +1,16 @@
+<TODO> (1) Egyenes vonalú egyenletesen változó mozgás (EVEV) definíciója.
+-> Egy test egyenes vonalú egyenletesen változó mozgást végez, ha:
+    - a mozgás egyenes mentén történik
+    - a test sebessége egyenlő időközök alatt egyenlő mértékben változik (gyorsulás állandó)
+-> Ez a mozgás lehet:
+    - egyenletesen gyorsuló, ha a gyorsulás (a) és a sebesség (v) azonos irányúak
+    - egyenletesen lassuló, ha a gyorsulás és a sebesség ellentétes irányúak
+-> EVEV alapegyenletei:
+    - [ v(t) = v(0) - g*t ]
+    - [ s(t) = s(0) + v(0)*t - (1/2)g*t^2 ]
+<TODO> (2) Pillanatnyi sebesség és a gyorsulás fogalma
+-> PILLANATNYI SEBESSÉG v(t)[m/s]:
+    - a test pillanatnyi sebességét a sebesség-idő függvény alapján határozhatjuk meg
+    - megmutatja, hogy a test egy adott időpillanatban milyen gyorsan és milyen irányban mozog
+-> A pillanatnyi sebesség matematikai alakban határértékként adható meg:
+    - [ v(t) = lim(Δt->0)( (s(t + Δt) - s(t)) / Δt ) ]

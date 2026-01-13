@@ -1,0 +1,79 @@
+Arany János (1.4)
+
+Életrajzi háttér - Arany János (1817-1882) {
+    -Nagyszalontán született, elszegényedett nemesi család
+    -tanulmányai: debreceni egyetem -> nem fejezte be
+    -vándorszínésznek állt -> abbahagyja
+    -hazatér Nagyszalontára, hivatalnoki állás
+    -felesége: Ercsey Julianna (Nagyszalonta)
+    -két gyermek, jó házasság
+    -1846: megnyeri a Kisfaludy Társaság pájadíját Az elveszett alkotmány című eposzát
+    -Toldi megjelenése -> Petőfi barátsága (őszinte, mély barátság)
+    -Szabadságharc után válság (Petőfi elvesztése, szabadságharc bukása)
+    -1851-60: nagykőrösi református gimnázium tanára
+    -1860: válság vége, közéleti sikerek
+    -lapot szerkesztett, MTA titkára volt => nagy hatás a magyar irodalmi életre
+    -nyugdíjba vonulás -> Margit szigeten tölti írással az utolsó éveit (Őszikék megírása)
+}
+Arany János balladái {
+    -két nagy korszak: Nagykőrösi, Őszikék
+    -hosszab művekre nem volt ideje, ezért rövidebb balladákra öszpontosított
+    -Őszikék balladáit 1877-ben írta a Margit-szigeten
+    -Arany két rokon műfajt különböztet meg; a románcot és a balladát
+        -> Románc: dalszerű, többnyire nem tragikus kimenetelű (Pl: Mátyás anyja)
+        -> Ballada: tragédia, dalban elbeszélve,
+            -keveredik benne a 3 műnem sajátossága
+            -sűrített, szaggatott előadásmód (balladai homály: kihagyások, alhallgatások)
+            -két műfaji forrása van: skótballada és székely népballada
+    -Balladái téma alapján {
+        -történelmi: Szondi két apródja, Walesi bárdok
+        -lélektani: Ágnes asszony
+        -parasztballada: Ágnes asszony, Tengeri hántás
+        -nagyvárosi: A hídavatás
+    }
+    -Balladái szerkezet alapján {
+        -egyszólamú (lineáris: 1 cselekményszál): Ágnes asszony, Walesi bárdok
+        -többszólamú (több cselekményszál): Szondi két apródja, V. László
+        -körkörös: Ágnes asszony (patakparton kezdődik és végződik)
+    }
+}
+Nagykőrösi balladák {
+    -történelmi balladák dominálnak, de elődordulnak lélektani balladák is
+    Ágnes asszony (1853) {
+        -lélektani ballada
+        -egyszólamú, körkörös szerkezet
+        -bűn és bűnhődés témaköre
+        -3 pillérversszak: 1., 20., 26. (lepel mosása)
+        -megismerjük a ballada elején Ágnes asszonyt
+        -szeretőjével megölte a férjét -> a véres leplet mossa a patakban
+        -ezután börtönbe és tárgyalás elé kerül -> eközben megőrül
+        -amikor kiengedik, folytatja a mosást a patakban az idők végezetéig
+        -belső büntetés sújosabb mint a bíróság ítélete, ezért engedik szabadon
+        -motívumok {
+            -fehér szín: ártatlanság, tisztaság,
+            -folt az anyagon: becsületen esett folt
+            -víz: megtisztulás, bűnok lemosása (kereszténység)
+    }
+    Walesi bárdok (1863) {
+        -történelmi ballada
+        -egyszólamú, körkörös szerkezet
+        -egy Ferenc Józsefet üdvözlő költemény helyett írta
+        -Skócia és Magyarország közötti párhuzam
+            -> Erdward (Ferenc József) király leigázta Walest (Magyarországot)
+        -a tartomáyba látogató király elvárja hogy énekmondók dicsőítség őt
+        -egyetlen "bárd" sem hajlandó dicsőíteni a királyt
+            => mágjahalálra ítéli őket
+        -"csatában ellhult derék": utalás Petőfire
+    }
+    Szondi két apródja (1856) {
+        -történelmi ballada
+        -háromszólamú -> 3 helyszín: völgy, vár, domb (sír)
+        -a völgyben a törökök a vár bevételét ünneplik
+        -Ali követe hívogatja a Szondit sirató két apródot
+        -a két apród nem hajlandó menni: Szondi hősies haláláról énekelnek
+        -a vers témáját Tinódi históriás énekéből merítette
+        -török kort török szavakkal idézi fel: "sörbet", "huri", "gyaur", "bübül"
+        -a török követ hívogatásában fokozás figyelhető meg:
+            hívogatás -> ígérgetés -> fenyegetés
+    }
+}

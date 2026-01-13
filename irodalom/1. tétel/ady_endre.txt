@@ -1,0 +1,88 @@
+Ady Endre (1.1)
+https://www.youtube.com/watch?v=SPNwAkzPEXE
+
+Életrajzi háttér - Ady Endre (1877-1919) {
+    -magyar szimbolizmus megteremtője
+    -modern magyar irodalom elindítója
+    -bocskoros nemesi (kisnemes) családban született
+    -apja: Ady Lőrinc
+    -Észak-Erdélyben Érmindszenten született
+    -kálvinista vallás
+    -iskolák: Nagykároly, Zilah, Debrecen (jogi kar, nem fejezte be -> újságírás)
+    -Nagyvárad: nyüzsgő kultúrális központ, a Szabadág című lap munkatársa
+    -> itt találkozott Diósyné Brüll Adéllal (Léda) aki akkoriban Párizsban élt
+    -Párizs: 1904-ben utazott ide Léda után
+             1906-tól 1 évet töltött itt
+             1911-ig még 5-ször utazik ide
+    -1906-ban megjelent 3. kötete (Új versek) hozta meg számára a költői sikert
+    -Léda bevezette a francia kultúrába, az ő segítségével olvassa a francia szimbolisták verseit
+    -szellemileg Párizsban érezte magát igazán otthon
+    -Budapest: 1905-ben került a Budapesti Naplóhoz, a Nyugat indulásáig itt publikált
+    -a Nyugatnak indulásától haláláig munkatársa, egyben legnagyobb sztárja volt
+    -1909-től egyre többet betegeskedett
+    -1914-18: elnémul a világháború alatt
+    -1915-17: főleg Csucsán tartózkodott
+    -1917-ben költözött feleségével a Veres Pálné utcába
+    -1919-ben szanatóriumban halt meg
+}
+Pályakép {
+    Versei főbb témái:
+        -a magyarság elmaradottsága (A magyar ugaron)
+        -szerelem (az én menyasszonyom)
+        -élet és halál viszonya (Párizsban járt az ősz)
+        -Istenes versek (A Sion hegy alatt)
+        -ars poetica (A hortobágy poétája)
+        -a hiány számos formája (pénz, honvágy)
+        -a világháború gyötrelmei
+}
+Új versek {
+    -a kötet 4 ciklusból + egy előhangból áll {
+        (+Góg és Magóg fia vagyok én): költői ars poetica
+        -Léda asszony zsoltárjai: szerelmi költemények
+        -A magyar ugaron: magyarság versei
+        -A daloló Párizs: Párizs dicsérete (A magyar ugaron ellenpárja)
+        -Szűz ormok vándora: szimbolista versek
+    }
+    -a kötet eltér költői mintaképétől, Baudelaire-től
+    -Ady társadalmilag elkötelezett Baudelaire-vel szemben (L'art pour l'art)
+    -szóképei allegórikusak (kiterjesztett metafora)
+    -nem használ szinesztéziát
+    -versformái: szabad jambusok
+    Góg és Magóg fia vagyok én (1906) {
+        -Góg és Magóg (Anonymus): a pogány népek ősatyái akiket az úr acélfallal zárt körül
+        -Verecke és Dévény: az ország keleti és nyugati határa
+        -Ady vállalja a keleti örökséget, de a nyugati szimbolizmussal megújjítaná azt
+        -"Kárpátok alatt": Magyarországot jelöli
+        -Vazul a lázadás motívuma
+        -Pusztaszer a reakciós magyarországot jelenti
+        -KULCSSZÓ: "új"
+    }
+    Hortobágy poétája (1906) {
+        -Hortobágy: alföldi település
+        -Téma: a magyar puszta
+        -a vers epikus jellegű, mert elmesél egy történetet
+        -allegória: a Hortobágy az egész magyar sorsot jelképezi
+        -hagulat: melankolikus, titokzatos
+        -párhuzamba állítható A Magyar ugaron című verssel
+        -Ady önnön sorsát, alakját értelmezi
+        -Kunok: pogány nép (velük azonosul)
+        -lehetőségek vannak benne, de nem tud kibontakozni
+        -üzenet a 4. versszakban fogalmazódik meg: sivár szellemi környezet miatt abbahaggya a költészetet
+        -a vers mondanivalója: az elmaradott körülmények között a tehettség is elvész
+    }
+    Új vizeken járok (1905) {
+        -a kötet záró darabja: kiemelt pozíció
+        -KULCSSZÓ: "új"
+        -az "új" fogalma központi fogalom lett Adynál
+        -a messzeség, a rohanás képei kapnak szerepet
+        -a versben minden mozgásban van (tenger, vizek, repül- száll a hajó)
+        -körkörös szerkezet (az "új" szó miatt)
+        -a költő a "mindent" akarta meghódítani, a végtelenbe vágyott, és a semmihez jutott el végül
+        -a diszharmónia Adynál örök állapot
+        -egyensúlyvesztés érzékelhető a benne (Ady kételyekkel küzdött)
+        -a vers műfaja: ar poetica
+        -a vers típusa: értékszembesítő költemény
+        -a lírai én a hajóhoz (valójában önmagához) beszél
+        -a mű hangulata ambivalens (kettősség): rohanásvágy, bizonytalanság
+    }
+}

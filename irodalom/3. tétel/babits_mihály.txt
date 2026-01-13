@@ -1,0 +1,71 @@
+Babits Mihály
+
+Életrajzi háttér - Babits Mihály (1883-) {
+    -Szekszárdon született, apja bíró, anyja többnyelven beszélő művelt asszony
+    -Katolikus nevelés
+    -Budapesti egyetemen magyar-latin, magyar-francia szakon tanult
+    -Tagja volt a Négyesy László-féle stílusgyakorlatok szemináriumnak
+    -Barátságot kötött Juhász Gyulval és Kosztolányi Dezsővel
+    -Filozófiát hallgatott
+    -Egyetem után tanári állás Szegeden majd Fogarason (itt megtanult olaszul)
+    -Néhány vers: Holnap, Nyugat
+    -Első verseskötöte: Levelek Írisz koszorújából
+    -Kimagaló műveltség, igényesség
+    -Példaképe: Arany János
+    -Költészete nem élménylíra (nincs szerelmi költészete)
+    -Poéta doctus: tudós filozofikus költő
+    -1927: Baumgarten-alapítvány kurátora
+    -1929-től: Nyugat szerkesztője
+    -Irodalmi vezéri helyzet -> anyagi jólét (Esztergomi villa)
+    -1934: gégerák -> hangját elveszíti
+    -A politikai csatáktól irtózik, ragaszkodik a kersztény testvériség elvéhez
+    -Költészetét misztikus élete hatja át, sorcsapások -> isteni megpróbáltatás
+    -Prófétaköltő szerep
+}
+Pályakép {
+    -1938: Jónás könyve
+    -1939: Jónás imája
+}
+Jónás könyve {
+    -Nagylélegzetű költemény, követi a bibliai kispróféta négyrészes könyvét
+    -A Jónás könyve: nem igehirdetést tartalmaz, hanem a próféta életét, cselekedeteit beszéli el
+    -Bibliai történet: Jónást elhívja az Úr hogy hirdessen megtérést a bűnös Ninivének
+    -vagy haragja fölperzseli a várost
+    -Jónás megpróbál elszökni -> vihar a tengeren -> cethal benyeli Jónást
+    -a próféta a hal gyomrában jobb belátásra tér, megfogadja hogy teljesíti az úr akaratát
+    -ekkor a hal kiveti a partra -> elindul Ninivébe
+    -Ninivében megtérést prédikál
+    -Niniveiek megtérnek -> az Úr nem pusztítja el a várost
+    -Jónás vitázik az Úrral, hogy nem pusztíította el a niniveieket
+    -Isten megérteti vele hogy "ő az irgalom istene"
+    -Babits könyvének szerkezete {
+        -1. rész: Jónást elhívja az úr, de ő elfut a hivatás elől
+            -célzás a saját L'art pour L'art korszakára
+            -a hajó viharba kerül, a megriadt legénység vízbedobja Jónást
+            -arra kéri a legénységet hogy egy magányos erdőszélre tegyék ki
+            => célzás Babits sziget elméretére -> minden alkotó egy sziget
+        -2. rész: Jónás a cet gyomrába kerül
+            -Babits a Bibliával szemben kétségtelenné teszi hogy jelképes értelemmel van szó
+        -3. rész: Jónás teljesíti igéretét
+            -Ninivében hirdeti a megtérést
+            -Részletes leírást kapunk a niniveiek életéről
+            -A palotában gúnyt űznek Jónásból: Cifra oszlop tetejébe teszik szónokolni
+            -Jónás megsértődik: Ninive pusztulását kéri az Úrtól
+        -4. rész: Jónás a sivatagban pörlekedik az Úrral
+            -Tök alatt keres árnyékot
+            -Az Úr elfonnyasztja a tököt -> Jónás megleckéztetése
+            -Az úr Jónás tudtára adja: nem az ő dolga a büntetés, övé csupán a szó
+            => "te csak prédikálj Jónás, én cselekszem"
+            -Jónás jobb belátásra tér: "te vagy aki fordít rosszat jóra"
+    }
+    Összegzés {
+        -Babits önmagára vonatkoztatja a történetet (önirónia)
+        -Jónás nem félelemből szökik küldetése elől hanem rühelli a prófétaságot
+        -Személyes vallomása Jónásnak: a hal gyomrában való elmélkedése
+        -A szűkszavú elbeszélést gazdag leírásokkal egészíti ki (Ninive bemutatása)
+        -Dramatizálás: Jónás vízbe dobása
+        -Fontos eltérés: a bibliai Ninive böjtölni kezd, Babits művében nem mutatnak megtérést
+        -Babits az arhaikus bibliai nyelvet és ennek latinizmusait keveri a modern nyelvhasználattal
+        -A könyv és az utóhang erélyes tiltakozás a fanatikus eszmék/háborúk ellen
+    }
+}

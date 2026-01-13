@@ -1,0 +1,73 @@
+A morfémák rendszere, a szó felépítése (4.4.1)
+
+A morfológia
+-> A morfológia (alaktan) a szavak felépítésével, szerkezetével foglalkozó nyelvészeti ág.
+-> Vizsgálja, hogy a szavak milyen kisebb nyelvi egységekből állnak.
+-> A szó legkisebb jelentéssel bíró eleme a morféma.
+
+A morféma fogalma
+-> A morféma a nyelv legkisebb jelentéssel rendelkező egysége.
+-> Önállóan nem mindig fordul elő, de jelentése vagy nyelvtani funkciója van.
+-> Egy szó egy vagy több morfémából állhat.
+
+A morfémák fő csoportjai
+-> Két nagy csoportjuk van:
+  - tőmorfémák
+  - toldalékmorfémák
+
+A tőmorfémák
+-> A tőmorféma a szó alapjelentését hordozza.
+-> A szó jelentésének magját adja.
+-> Önálló szóként is előfordulhat, de nem kötelező.
+
+A tőmorfémák fajtái
+-> Szótő:
+  - önálló szóként is használható (pl. ház, ír)
+-> Kötött tő:
+  - önállóan nem fordul elő, csak toldalékkal (pl. hős-ég, szab-ály)
+-> Csonka tő:
+  - a toldalékoláskor a tő megrövidül (pl. kéz – kezet)
+-> Váztő:
+  - a tő alakja toldalékoláskor változik (pl. ló – lovat)
+
+A toldalékmorfémák
+-> A toldalékmorfémák a tőhöz kapcsolódva nyelvtani vagy jelentésbeli módosulást hoznak létre.
+-> Önállóan nem fordulnak elő.
+-> A magyar nyelv agglutináló (ragasztó) nyelv, ezért sok toldalékot használ.
+
+A toldalékmorfémák fajtái
+-> Képzők
+-> Jelek
+-> Ragok
+
+A képző
+-> Új szót hoz létre.
+-> Megváltoztathatja a szó szófaját vagy jelentését.
+-> Pl.: ír + ás -> írás, szép + ség -> szépség
+
+A jel
+-> Nyelvtani viszonyt fejez ki.
+-> Nem hoz létre új szót.
+-> A tő és a rag között helyezkedik el.
+-> Pl.: többes szám jele: ház + ak -> házak
+-> Időjelek az igénél: ír + t -> írt
+
+A rag
+-> A szó mondatbeli szerepét fejezi ki.
+-> Mindig a szó végén áll.
+-> Pl.: ház + ban, kert + ben, nek + em
+
+A morfémák sorrendje a szóban
+-> tő + képző + jel + rag
+-> Nem kötelező minden elem megléte.
+-> Pl.: ház + as + ak + ban -> házakban
+
+A morfémák szerepe a nyelvben
+-> Lehetővé teszik a pontos jelentéskifejezést.
+-> Fontos szerepük van a toldalékolásban és a mondatalkotásban.
+-> A morfémák ismerete segíti a helyesírást és a szövegértést.
+
+Összegzés
+-> A morfémák a nyelv alapvető építőelemei.
+-> A tőmorféma hordozza az alapjelentést, a toldalékmorfémák módosítják azt.
+-> A magyar nyelv morfológiai rendszere jól szervezett és szabályos.

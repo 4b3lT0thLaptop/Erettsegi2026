@@ -1,0 +1,60 @@
+A magánhangzók és mássalhangzók rendszere (4.2.1)
+
+A hangtan
+-> A hangtan a nyelv hangjaival foglalkozó nyelvészeti ág.
+-> A beszéd legkisebb elemei a beszédhangok.
+-> Két fő csoportjuk van: magánhangzók és mássalhangzók.
+
+A beszélőszervek
+-> A beszédhangok a beszélőszervek összehangolt működésével jönnek létre.
+
+Beszélőszervek csoportjai:
+-> Légző szervek: tüdő – biztosítja a levegőt
+-> Hangadó szerv: gége, hangszalagok
+  - rezgés -> zöngés hang
+  - nincs rezgés -> zöngétlen hang
+-> Hangalakító szervek:
+  - nyelv
+  - ajkak
+  - fogak
+  - szájpad
+  - orrüreg
+
+A magánhangzók jellemzői
+-> A levegő akadálytalanul áramlik ki.
+-> Önálló szótagot alkotnak.
+-> A magyar nyelvben 14 magánhangzó van.
+
+A magánhangzók képzési szempontjai:
+-> Nyelvállás szerint: alsó, középső, felső
+-> Nyelv vízszintes mozgása szerint:
+  - elöl képzett
+  - hátul képzett
+-> Ajakkerekítés szerint:
+  - ajakkerekítéses
+  - ajakréses
+-> Időtartam szerint:
+  - rövid
+  - hosszú
+
+A mássalhangzók jellemzői
+-> A levegő útja akadályba ütközik.
+-> Általában nem alkotnak önálló szótagot.
+-> A magyar nyelvben 25 mássalhangzó-fonéma van.
+
+A mássalhangzók képzési módja
+-> Azt mutatja meg, hogyan jön létre az akadály.
+
++ Mássalhangzók képzési mód szerint:
+-> Zárhangok: teljes zár (pl. p, t, k)
+-> Réshangok: szűk résen áramlik a levegő (pl. f, s)
+-> Zár-réshangok: zár + rés (pl. c, cs)
+-> Orrhangok: levegő az orrüregen át (pl. m, n)
+-> Oldalhang: a levegő oldalt távozik (l)
+-> Pergőhang: gyors pergés (r)
+
+Összegzés
+- A magyar hangrendszer szabályos és jól rendszerezhető.
+- A magánhangzók és mássalhangzók rendszere alapvető szerepet játszik a beszédben.
+- A beszélőszervek működése nélkül nem jöhetne létre hangzó nyelv.
+

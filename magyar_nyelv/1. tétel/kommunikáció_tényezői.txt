@@ -1,0 +1,54 @@
+Kommunikáció (1.1.1)
+
+Kommunikáció jelentése: közlésfolyamat
+-> lényege: jelhasználat
+-> Példa: delfinek kommunikációja, főemlősök, virágok (egyoldalú)
+
+Emberi kommunikáció
+-> Jelhasználat szabadsága (magasabbrendűség)
+
+Kommunikáció tényezői (Jakobson-féle ábra):
+Valóság {
+    Beszédhelyzet {
+        Csatorna: (beszéd)
+        Beszélő, hallgató
+        Nyelv (Kódrendszer) {
+            Üzenet
+        }
+    }
+}
+-> Valóság: Mindannyian ugyanannak a valóságnak a szeszereplői vagyunk
+-> Beszédhelyzet (szituáció): meghatározza a kommunikáció tartalmát és stílusát (Pl: hivatalos érintkezés, privát kommunikáció)
+-> Csatorna {
+    - lehet: KÖZVETLEN / KÖZVETETT
+    - közvetlen: (beszélgetés, teló)
+        - egyidejű (lehetőséget ad a válaszra)
+    - közvetett: levél
+    - lehet: SZÓBELI / ÍRÁSBELI
+    - Példa: levegő közege, telefonkábel, képernyő, mikrofon, hangszóró, papír, posta
+    - Személyes társalgás - Legkomplexebb társalgás
+}
+-> Bezsélő, hallgató: A hallható a vevő, a beszéló a feladó
+    -a közvetett kommunikációban (E-mail) állandóak a szerepek
+    -a közvetlen kommunikációban szerepet cserélhetnek
+-> Nyelv (kódrendszer): a beszélő kódol, a hallgató dekódol. Fontos a közös nyelv.
+-> Üzenet: A kommunikáció tartalma
+
+Kommunikációs cél és funkció:
+-> A kommunikáció határozott vagy határozatlan céllal megy végbe (függ a beszédhelyzettől)
+-> Kommunikáció funkciói {
+    -> Tájékoztatás: legalapvetőbb funkció
+        -Pl: "Vettem egy kenyeret"
+    -> Tudakozás: kérdőmondatok formájában jelenik meg, választ várunk rá
+    -> Felhívás: a beszélő kéri, utasítja, parancsolja a hallgatót
+        - lehet: DIREKT / INDIREKT
+        -Pl: "Ideadnád a sót?"
+    -> Kifejezés: érzelmeinket fejezzük ki vele
+        - lehet: NYELVI / NEMNYELVI
+        -Pl: együttérzés öröm
+    -> Kapcsolatot ellenőrző funkció
+        -Pl: "Halló", "Szia"
+    -> Metanyelvi funkció: a kommunikáció a beszélhetés tárgya
+        -Pl: "Nagyon recseg a hangzóróm"
+    -> Metafizikai funkció: képi, zenei kommunikáció (üzenetet hordoz)
+}

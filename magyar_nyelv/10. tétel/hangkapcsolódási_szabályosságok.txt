@@ -1,0 +1,71 @@
+A hangkapcsolódási szabályosságok típusai és a helyesírás összefüggése (4.2.2)
+
+A hangkapcsolódási szabályosságok
+-> A hangkapcsolódási szabályosságok a beszédhangok egymásra hatását vizsgálják.
+-> A beszédben a hangok nem elkülönülten, hanem hangkapcsolatokban jelennek meg.
+-> A hangkapcsolódási jelenségek elsősorban a kiejtésben érvényesülnek, de hatással vannak a helyesírásra is.
+
+A hangkapcsolódási szabályosságok típusai
+-> Két fő csoportjuk van:
+  - magánhangzó-törvények
+  - mássalhangzó-törvények
+
+A magánhangzó-törvények
+-> A magánhangzók egymásra hatását írják le.
+-> A magyar nyelvre jellemző, szabályos rendszert alkotnak.
+
+Magánhangzó-harmónia (hangrendi illeszkedés)
+-> A toldalék magánhangzója alkalmazkodik a szó tövének magánhangzóihoz.
+-> Fajtái:
+  - mély hangrendű: a, á, o, ó, u, ú (pl. házban)
+  - magas hangrendű: e, é, i, í, ö, ő, ü, ű (pl. kertben)
+-> Vegyes hangrendű szavaknál a toldalékolás hagyományon alapul (pl. ceruzában).
+
+Az illeszkedés helyesírási szerepe
+-> A toldalék írásmódja a kiejtést követi.
+-> Pl.: fal + ban -> falban, kert + ben -> kertben
+
+A mássalhangzó-törvények
+-> A mássalhangzók egymásra hatását szabályozzák.
+-> Többnyire a beszédben jelentkeznek, de a helyesírás gyakran jelöli őket.
+
+Hasonulás
+-> Az egyik mássalhangzó a másikhoz hasonlóvá válik.
+
+Részleges hasonulás
+-> Csak egy tulajdonság változik meg.
+-> Lehet:
+  - zöngésség szerinti (pl. kéz + t -> kézt [sz])
+-> A helyesírás nem jelöli (kiejtés szerint változik, írásban nem).
+
+Teljes hasonulás
+-> A mássalhangzó minden tulajdonságában azonos lesz a másikkal.
+-> Fajtái:
+  - írásban jelölt (pl. kéz + z -> kézzel)
+  - írásban nem jelölt (pl. hat + van -> hatvan [tt])
+-> A helyesírás egyes esetekben követi a kiejtést.
+
+Összeolvadás
+-> Két különböző mássalhangzóból egy új hang jön létre.
+-> Pl.: egy + gyel -> eggyel
+-> A helyesírás jelöli az összeolvadást.
+
+Rövidülés
+-> Hosszú mássalhangzó megrövidül.
+-> Pl.: toll + val -> tollal [l]
+-> Írásban nem mindig jelenik meg.
+
+Kiesés
+-> Egy hang eltűnik a kiejtés során.
+-> Pl.: mondta [monnta]
+-> A helyesírás megőrzi az eredeti alakot.
+
+A hangkapcsolódási szabályosságok és a helyesírás kapcsolata
+-> A magyar helyesírás alapelve a kiejtés elve.
+-> Sok hangkapcsolódási jelenség írásban is megjelenik.
+-> Bizonyos esetekben a szóelemző és a hagyomány elve erősebb, ezért az írás eltérhet a kiejtéstől.
+
+Összegzés
+-> A hangkapcsolódási szabályosságok a folyamatos beszéd természetes jelenségei.
+-> A magánhangzó- és mássalhangzó-törvények rendszerezettséget ad a nyelvnek.
+-> A helyesírás részben követi, részben rögzíti ezeket a változásokat.

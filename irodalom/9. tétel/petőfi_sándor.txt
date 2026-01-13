@@ -1,0 +1,61 @@
+Petőfi Sándor (1.20)
+
+Életrajzi háttér - Petőfi Sándor (1823-1849) {
+    - 1823-ban született Kiskőrösön, polgári-kisiparos családban.
+    - Tanulmányai: Kiskőrös, majd Sárszentlőrinc, Selmecbánya és Pest; rövid ideig jogot és pedagógiát tanult.
+    - Fiatalon kezdett verseket írni, a pesti radikális körökhöz csatlakozott.
+    - 1846-tól ismert költő, főként népies és romantikus versekkel.
+    - Részt vett az 1848-49-es forradalomban: Nemzeti dal, 1848. március 15.
+    - Katonaként esett el 1849-ben Segesvárnál.
+    - Halála után legendás, a magyar irodalom egyik legnagyobb nemzeti költőjeként tisztelik.
+}
+Pályakép {
+    - A magyar romantika kiemelkedő alakja, a népiesség és a forradalmi költészet képviselője.
+    - Fő témái:
+      - a szabadság és hazaszeretet
+      - szerelem és természet
+      - társadalmi egyenlőség és népi élet
+    - Stílusjegyek:
+      - rövid, frappáns, ritmusos versek
+      - népies nyelvezet
+      - erős képi világ
+      - lírai és epikus hangvétel kombinációja
+    - Fontos művei:
+      - Versek: Nemzeti dal, Szeptember végén, A Tisza
+      - Epikus költemények: János vitéz, A helység kalapácsa
+      - Balladák: A borozó, A Pál utcai fiúk ihlette néhány novella
+    - Szerepe:
+      - a magyar forradalom lelki vezéreként ismert
+      - népiesség és szabadság eszményének költője
+}
+Természet vadvirága + 19. század költői {
+    Természet vadvirága:
+    - Megjelenés: 1846
+    - Téma: a természet és az emberi érzelmek összhangja
+    - Cselekmény/élmény: a költő a természet egyszerű szépségét dicséri, érzéseit a tájjal összekapcsolja
+    - Stílus:
+      - lírai, festői képek
+      - érzékeny, melankolikus hangvétel
+      - ritmikus, dallamos sorok
+    - Üzenet: a természet tisztasága és szépsége párhuzamba állítható az emberi lélek egyszerűségével
+
+    19. század költői:
+    - Téma: a költői hivatás és a szabadság eszméje
+    - Példák: Nemzeti dal, Szeptember végén
+    - Tartalom:
+      - a költő szerepe a társadalomban: felhívja a figyelmet a nemzeti ügyre
+      - hazaszeretet, szabadságvágy kifejezése
+      - az érzelmek és az eszmény összefonódása
+    - Stílus:
+      - dinamikus, rövid sorok
+      - erős ritmus és ismétlés (pl. Nemzeti dal)
+      - közvetlen, felhívó hangvétel
+    - Üzenet:
+      - a költő a nemzet lelki vezetője
+      - a szabadság és a forradalom eszméjét közvetíti
+}
+Összegzés:
+- Petőfi Sándor a 19. századi magyar költészet meghatározó alakja.
+- Költészete egyszerre népies, lírai és politikai.
+- Természetköltészete és hazafias versei a magyar irodalom örök értékei.
+- Élete és munkássága a magyar nemzeti öntudat formálásában is kiemelkedő.
