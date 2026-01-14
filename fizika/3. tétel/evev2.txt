@@ -6,8 +6,8 @@
     - egyenletesen gyorsuló, ha a gyorsulás (a) és a sebesség (v) azonos irányúak
     - egyenletesen lassuló, ha a gyorsulás és a sebesség ellentétes irányúak
 -> EVEV alapegyenletei:
-    - [ v(t) = v(0) - g*t ]
-    - [ s(t) = s(0) + v(0)*t - (1/2)g*t^2 ]
+    - [ v(t) = v(0) + g*t ]
+    - [ s(t) = s(0) + v(0)*t + (1/2)g*t^2 ]
 <TODO> (2) Hogyan lehetséges az, hogy egy test sebességének nagysága növekszik, pedig a test
            pályamenti gyorsulása negatív?
 -> A pályamenti gyorsuás előjele attól függ, hogy milyen irányt választunk pozitívnak
@@ -24,5 +24,5 @@
 <TODO> (4) Mondjon két példát egyenes vonalú egyenesen lassuló mozgásra! Lehet természetes és mesterségesen
            létrehozott mozgás is. Milyen erők hatnak a testre, mitől lassul?
 -> Példák:
-    - Függőlegesen elfelé dobott test mozgása, fékező erő: gravitációs erő
+    - Függőlegesen felfelé dobott test mozgása, fékező erő: gravitációs erő
     - Egyenes úton fékező autó, fékező erő: gravitációs erők: csúszási/tapadási súrlódási erő, légellenállás

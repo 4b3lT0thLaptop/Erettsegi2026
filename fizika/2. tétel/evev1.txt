@@ -6,14 +6,14 @@
     - egyenletesen gyorsuló, ha a gyorsulás (a) és a sebesség (v) azonos irányúak
     - egyenletesen lassuló, ha a gyorsulás és a sebesség ellentétes irányúak
 -> EVEV alapegyenletei:
-    - [ v(t) = v(0) - g*t ]
+    - [ v(t) = v(0) + g*t ]
     - [ s(t) = s(0) + v(0)*t - (1/2)g*t^2 ]
 <TODO> (2) Pillanatnyi sebesség és gyorsulás fogalma
 -> PILLANATNYI SEBESSÉG v(t)[m/s]:
     - a test pillanatnyi sebességét a sebesség-idő függvény alapján határozhatjuk meg
     - megmutatja, hogy a test egy adott időpillanatban milyen gyorsan és milyen irányban mozog
 -> A pillanatnyi sebesség matematikai alakban differenciálhányadosként (vagy határértékként) adható meg:
-    - [ v(t) = ds/dt = lim{Δt->0}( (s(t + Δt) - s(t)) / Δt ) ]
+    - [ v(t) = ds/dt = lim{Δt->0}( (s(t + Δt) + s(t)) / Δt ) ]
 -> PILLANATNYI GYORSULÁS a(t)[m/s^2]:
     - a test pillanatnyi sebességét a gyorsulás-idő függvény alapján határozhatjuk meg
     - megmutatja, hogy a test egy adott időpillanatban milyen gyorsan és milyen irányban gyorsul

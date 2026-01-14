@@ -1,3 +1,36 @@
-<TODO> (1) Harmonikus rezgőmozgás fogalma
+<TODO> (1) Harmonikus rezgőmozgás (HRM) fogalma
+-> Egy test harmonikus rezgőmozgást végez, ha:
+    - egyensúlyi helyzet körül, egyenes vonal mentén oda-vissza mozog
+    - a kitérés (y) időben periodikusan változik
+    - a gyorsulás nagysága egyenesen arányos a kitéréssel, iránya pedig mindig az egyensúlyi helyzet felé mutat
+-> A mozgás jellemzői:
+    - a mozgás periodikus (ismétlődő)
+    - az egyensúlyi helyzetben a sebesség maximális, a gyorsulás 0
+    - a szélső helyzetekben a sebesség 0, a gyorsulás maximális
+-> HRM alapegyenletei:
+    - [ y(t) = A*sin( ω*t + φ(0) ) ]
+    - [ v(t) = y'(t) = A*ω*cos( ω*t + φ(0) ) ]
+    - [ a(t) = v'(t) = y"(t) = -A*ω^2*sin( ω*t + φ(0) ) ]
+-> Körfrekvencia kapcsolata az időjellemzőkkel:
+    - [ ω = 2*π/T = 2*π*f ]
 <TODO> (2) Harmonikus rezgőmozgás dinamikai feltétele
-<TODO> (3) a, v, y iránya a mozgás során
+-> A HRM dinamikai feltétele:
+    - a testre ható eredő egyenesen arányos a kitéréssel
+    - az erő iránya mindig az egyensúlyi helyzet felé mutat
+-> Matematikai alak:
+    - [ F = -D*y ] diff egyenlet formában: [ m*y"(t) = -D*y(t) ]
+    - [ m*a = -D*y ] => gyorsulás arányos és ellentétes irányú a kitéréssel ( a ~ -y )
+<TODO> (3) gyorsuás (a), sebesség (v), kitérés (y) iránya a mozgás során
+-> KITÉRÉS   y[m]: egyensúlyi helyzettől mért előjeles távolság (lehet negatív)
+-> SEBESSÉG  v[m/s]: iránya megegyezik a mozgás pillanatnyi irányával
+-> GYORSULÁS a[m/s^2]: iránya mindig az egyensúlyi helyzet felé mutat
+-> Irányviszonyok jellemző helyzetekben:
+    - Egyensúlyi helyzetben (y = 0):
+        - sebesség (v) maximális
+        - gyorsulás (a) nulla
+    - Szélső helyzetekben (y = +-A):
+        - sebesség (v) nulla
+        - gyorsulás (a) maximális
+    - Köztes helyzetekben ( -A < y < A és y != 0 ):
+        - gyorsulás (a) és kitérés (y) midig ellentétes irányú
+        - sebesség (v) iránya a mozgás irányát mutatja

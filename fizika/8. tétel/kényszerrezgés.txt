@@ -1,0 +1,28 @@
+<TODO> (1) Értelmezze a kényszerrezgés fogalmát!
+-> Egy test kényszerrezgést végez, ha:
+    - egy külső, periodikusan változó erő hatására rezeg
+    - a rezgés frekvenciáját külső erő határozza meg
+-> Kényszerrezgés jellemzői:
+    - a rezgést egy külső gerjesztő erő tartja fenn
+    - a rendszer energiát kap kívülről
+    - csillapítás esetén is fennmaradhat az állandósult rezgés
+-> A kényszerrezgés frekvenciája megegyezik a gerjesztő erő frekvenciájával
+<TODO> (2) Ismertesse, mitől és hogyan függ a kényszerrezgés amplitúdója, mit értünk rezonancián!
+-> A kényszerrezgés aplitúdója (A) függ:
+    - a gerjesztő erő amplitúdójától
+    - a gerjesztő erő frekvenciájától
+    - a rendszer saját frekvenciájától
+    - a csillapítás mértékétől
+-> Az amplitúdó frekvenciafüggése:
+    - kis frekvencián az amplitúdó kicsi
+    - a frekvencia növekedésével nő az amplitúdó (az amplitúdó NEM arányos a frekvenciával)
+    - bizonyos frekvencián maximális értéket vesz fel
+-> Rezonancia: az a jelenség amikor a gerjesztő erő frekvenciája megegyezik a redszer saját frekvenciájával
+<TODO> (3) Ismertesse a rezonancia fogalmát elektromágneses rezgések esetén!
+-> Elektromágneses rezgések példája:
+    - LC rezgőkör (tekercs + kondenzátor)
+-> Elektromágneses rezonancia feltétele: a váltakozó áram frekvenciája megegyezik az LC kör saját frekvenciájával
+-> Rezonancia esetén: az árramerősség (I) amplitúdója maximális
+<TODO> (4) Példa hasznos és káros rezonanciára.
+-> Hasznos példa: hangszerek rezonátora (gitár hangosítása)
+-> Káros példa: hidak rezonanciája földrengés hatására

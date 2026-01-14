@@ -1,0 +1,44 @@
+<TODO> (1) Jellemezze az egyenletes körmozgást (EKM) mint periodikus mozgást!
+-> Egy test egyenletes körmozgást végez, ha:
+    - mozgása körpálya mentén történik
+    - a test sebességének nagysága állandó (iránya folyamatosan változik)
+-> Az egyenletes körmozgás periodikus mozgás mert:
+    - a test meghatározott időközönként ugyanabba az állapotba kerül vissza
+    - létezik periódusidő, amely alatt a test egy teljes kört tesz meg
+-> A mozgás időjellemzői:
+    - PERIÓDUSIDŐ T[s]: teljes periódus (kör) megtételéhez szükséges idő
+    - FREKVENCIA f[s^-1]: egységnyi idő alatt megtett körök száma (f = T^-1)
+-> a test egy teljes kör alatt 2*π radiánt fordul
+<TODO> (2) Fogalmazza meg az egyenletes körmozgás (EKM) dinamikai feltételét!
+-> Egyenletes körmozgás dinamikai feltétele:
+    - a testre ható erők eredője a kör középpontja felé mutat
+    - ez az erő a centripetális erő
+-> CENTRIPETÁLIS ERŐ F_cp[N]:
+    - [ F_cp = m*a_cp ]
+    - a kör középpontja felé mutat
+    - merőleges a kerületi sebességre
+    - csak a sebesség irányát változtatja meg, nagyságát nem
+<TODO> (3) Milyen összefüggéseket ismer az egyenletes körmozgást végző test kerületi sebessége (v_ker),
+           szögsebessége (ω) és a centripetális gyorsulása (a_cp) között?
+-> KERÜLETI SEBESSÉG v_ker[m/s]:
+    - a körpálya érintőjének irányába mutat
+    - nagysága állandó
+    - [ v_ker = (r*R*π)/T = r*π*f*R = ω*R ]
+-> SZÖGSEBESSÉG ω[rad/s]:
+    - megtett szögelfordulás (α[rad]) és ehhez szükséges idő (t) differenciálhányadosa
+    - [ ω(t) = dα/dt = lim{Δt->0}( (α(t + Δt) + α(t)) / Δt ) ]
+    - [ ω = 2*π/T = 2*π*f ]
+-> CENTRIPETÁLIS GYORSULÁS a_cp[m/s^2]:
+    - a testet körpályán tartó gyorsulás
+    - nagysága állandó, a kör középpontja felé mutat
+    - [ a_cp = v_ker^2/R = ω^2*R ]
+<TODO> (4) Ismertesse a legfontosabb, periodikus mozgásokat, amelyek meghatározzák időszámításunkat!
+-> A Föld tengely körüli forgása:
+    - Periódusideje (T) 24 óra
+    - Meghatározza a nap fogalmát
+-> A Föld Nap körüli keringése:
+    - Periódusideje (T) 365,25 nap
+    - Meghatározza az év fogalmát
+-> A Hold Föld körüli keringése:
+    - Periódusideje (T) 29,5 nap
+    - Meghatározza a hónap fogalmát

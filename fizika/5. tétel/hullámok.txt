@@ -1,4 +1,30 @@
 <TODO> (1) Hullám fogalma
+-> Hullámnak nevezzük azt a jelenséget, amikor egy rezgő mozgás térben terjed, miközben az anyag részecskéi
+   nem haladnak együtt a hullámmal, csak rezgést végeznek az egyensúlyi helyzetük körül.
+-> A hullám energiát és rezgésállapotot terjeszt, de nem szállít tartósan anyagot
+-> Keletkezésének feltétele:
+    - rezgésre képes közeg
+    - a közeg részecskéi (ha vannak) kölcsönhatásban legyenek egymással
 <TODO> (2) Transzverzális és longitudinális hullám
+-> Transzverzális (keresztirányú) hullám:
+    - a közeg részecskéinek rezgésiránya merőleges a hullám terjedési irányára
+    - Pl: elektromágneses hullám (fény)
+-> Longitudinális (hosszirányú) hullám:
+    - a közeg részecskéinek rezgésiránya párhuzamos a hullám terjedési irányával
+    - Pl: hanghullám
 <TODO> (3) Hullámokat jellemző mennyiségek
+-> Mennyiségek:
+    - AMPLITÚDÓ          A[m]: a rezgés maximális kitérése (A = y_max)
+    - PERIÓDUSIDŐ        T[s]: teljes periódus (rezgés) megtételéhez szükséges idő
+        - a frekvencia reciproka
+    - FREKVENCIA         f[s^-1]: adott idő alatt végbemenő rezgések száma
+        - a periódusidő reciproka
+    - HULLÁMHOSSZ        λ[m]: az a távolság, amely alatt a hullám egy periódusnak megfelelő állapotváltozást végez
+    - TERJEDÉSI SEBESSÉG v[m/s]: megadja hogy a hullám adott idő alatt mekkora utat tesz meg
+-> Terjedési sebesség, hullámhossz és frekvencia kapcsolata: v = λ*f
 <TODO> (4) Állóhullám és kialakulásának feltételei
+-> Olyan hullám, amely nem rednelkezik terjedési sebességel (a hullámkép nem halad)
+-> Állóhullám nevezetes pontjai:
+    - Csomópont: a közeg részecskéje ebben a pontban nyugalomban marad (Δy = 0)
+    - Duzzadópont: a közeg részecskéje maximális kitéréssel (Δy) rezegnek (Δy = A)
+-> Állóhullám akkor jön létre amikor két azonos hullámhosszú de ellentétes irányú hullám találkozik
