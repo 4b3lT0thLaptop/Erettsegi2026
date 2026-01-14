@@ -6,7 +6,9 @@
 -> EVEM alapegyenlete:
     - [ s(t) = s(0) + v*t ]
 <TODO> (2) Átlagsebesség fogalma
--> ÁTLAGSEBESSÉG v_átlag[m/s]: A mozgás során megtett teljes út és az ehhez szükséges teljes idő hányadosa
+-> ÁTLAGSEBESSÉG v_átlag[m/s]:
+    - adott időintervallumon vett sebesség (függvény) átlaga
+    - EVEM esetén a mozgás során megtett teljes út és az ehhez szükséges teljes idő hányadosa
     - nem feltétlenül egyezik a pillanatnyi sebességgel, de EVEM esetén igen: v(t) = v_átlag
 -> Átlagsebesség kiszámítása:
     - EVEM esetén:   [ v_átlag = s_összes/t_összes = (s_2 - s_1) / (t_2 - t_1) ] (nem általános!)
