@@ -1,0 +1,4 @@
+<TODO> (1) Hullám fogalma
+<TODO> (2) Transzverzális és longitudinális hullám
+<TODO> (3) Hullámokat jellemző mennyiségek
+<TODO> (4) Állóhullám és kialakulásának feltételei

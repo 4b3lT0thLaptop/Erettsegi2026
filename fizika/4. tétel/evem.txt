@@ -1,0 +1,22 @@
+<TODO> (1) Egyenes vonalú egyenletes mozgás (EVEM) fogalma
+-> Egy test egyenes vonalú egyenletes mozgást végez, ha:
+    - a mozgás egyenes mentén történik
+    - a test egyenlő időközök alatt egyenlő utakat tesz meg (sebesség állandó)
+-> EVEM esetén a sebesség (v) állandó, a gyorsulás (a) 0
+-> EVEM alapegyenlete:
+    - [ s(t) = s(0) + v*t ]
+<TODO> (2) Átlagsebesség fogalma
+-> ÁTLAGSEBESSÉG v_átlag[m/s]: A mozgás során megtett teljes út és az ehhez szükséges teljes idő hányadosa
+    - nem feltétlenül egyezik a pillanatnyi sebességgel, de EVEM esetén igen: v(t) = v_átlag
+-> Átlagsebesség kiszámítása:
+    - EVEM esetén:   [ v_átlag = s_összes/t_összes = (s_2 - s_1) / (t_2 - t_1) ] (nem általános!)
+    - explicit alak: [ v_átlag = 1/(t_2 - t_1) * ∫{t_1;t_2}s'(t)dt ] (nem muszály tudni)
+<TODO> (3) Newton I. törvénye, vonatkoztatási rendszer, inerciarendszer kapcsolata
+-> Newton I. törvénye (tehetetlenségi törvény): "Egy test megtartja nyugalmi állapotát vagy egyenes vonalú
+   egyenletes mozgását mindaddig, amíg külső erő nem kényszeríti annak megváltozatására."
+-> Newton I. törvénye az EVEM mozgás alapvető fizikai magyarázata
+-> Vonatkoztatási redszernek nevezzük azt a koordinátarendszert, amelyhez képest a mozgást vizsgáljuk
+-> Inerciaredszernek nevezzük azt a vonatkoztatási rendszert, amelyben Newton 1. törvénye érvényesül
+<TODO> (4) Példa EVEM-re
+-> Természetes példa: mélyűrben haladó aszteroida (külső erők elhanyagolhatóak)
+-> Mesterséges létrehozott példa: állandó sebességgel egyenesen haladó autó

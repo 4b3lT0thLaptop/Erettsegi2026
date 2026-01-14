@@ -1,0 +1,28 @@
+<TODO> (1) Magyarázza el, mikor beszélünk egyenes vonalú egyenletesen változó (EVEV) mozgásról!
+-> Egy test egyenes vonalú egyenletesen változó mozgást végez, ha:
+    - a mozgás egyenes mentén történik
+    - a test sebessége egyenlő időközök alatt egyenlő mértékben változik (gyorsulás állandó)
+-> Ez a mozgás lehet:
+    - egyenletesen gyorsuló, ha a gyorsulás (a) és a sebesség (v) azonos irányúak
+    - egyenletesen lassuló, ha a gyorsulás és a sebesség ellentétes irányúak
+-> EVEV alapegyenletei:
+    - [ v(t) = v(0) - g*t ]
+    - [ s(t) = s(0) + v(0)*t - (1/2)g*t^2 ]
+<TODO> (2) Hogyan lehetséges az, hogy egy test sebességének nagysága növekszik, pedig a test
+           pályamenti gyorsulása negatív?
+-> A pályamenti gyorsuás előjele attól függ, hogy milyen irányt választunk pozitívnak
+-> Ha a test negatív irányba mozog és a gyorsulás is negatív akkor:
+    - mivel a gyorsulás és a sebesség egy irányba mutat => sebességvektor nagysága növekszik
+    - a test gyorulása ettől még negatív marad
+-> Nem a gyorsulás előjele, hanem a sebességhez viszonyított iránya dönti el, hogy a a test gyorsul vagy lassul
+<TODO> (3) Rajzolja fel a következő egyenesvonalú mozgás vázlatos hely-idő, sebesség-idő grafikonját:
+           A test az origóból indul, rövid gyorsító szakasz után egyenletes sebességgel halad,
+           majd lassít és megáll. Rövid várakozás után visszafelé gyorsít, egyenletesen halad,
+           majd lassítva visszatér a kiindulási pontjára, ahol megáll.
+-> Grafikonok: evev2.png
+-> Fontos: v(t) alatti terület 0 legyen
+<TODO> (4) Mondjon két példát egyenes vonalú egyenesen lassuló mozgásra! Lehet természetes és mesterségesen
+           létrehozott mozgás is. Milyen erők hatnak a testre, mitől lassul?
+-> Példák:
+    - Függőlegesen elfelé dobott test mozgása, fékező erő: gravitációs erő
+    - Egyenes úton fékező autó, fékező erő: gravitációs erők: csúszási/tapadási súrlódási erő, légellenállás

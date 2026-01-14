@@ -1,4 +1,4 @@
-<TODO> (1) Egyenes vonalú egyenletesen változó mozgás (EVEV) definíciója.
+<TODO> (1) Egyenes vonalú egyenletesen változó mozgás (EVEV) definíciója
 -> Egy test egyenes vonalú egyenletesen változó mozgást végez, ha:
     - a mozgás egyenes mentén történik
     - a test sebessége egyenlő időközök alatt egyenlő mértékben változik (gyorsulás állandó)
@@ -8,9 +8,27 @@
 -> EVEV alapegyenletei:
     - [ v(t) = v(0) - g*t ]
     - [ s(t) = s(0) + v(0)*t - (1/2)g*t^2 ]
-<TODO> (2) Pillanatnyi sebesség és a gyorsulás fogalma
+<TODO> (2) Pillanatnyi sebesség és gyorsulás fogalma
 -> PILLANATNYI SEBESSÉG v(t)[m/s]:
     - a test pillanatnyi sebességét a sebesség-idő függvény alapján határozhatjuk meg
     - megmutatja, hogy a test egy adott időpillanatban milyen gyorsan és milyen irányban mozog
--> A pillanatnyi sebesség matematikai alakban határértékként adható meg:
-    - [ v(t) = lim(Δt->0)( (s(t + Δt) - s(t)) / Δt ) ]
+-> A pillanatnyi sebesség matematikai alakban differenciálhányadosként (vagy határértékként) adható meg:
+    - [ v(t) = ds/dt = lim{Δt->0}( (s(t + Δt) - s(t)) / Δt ) ]
+-> PILLANATNYI GYORSULÁS a(t)[m/s^2]:
+    - a test pillanatnyi sebességét a gyorsulás-idő függvény alapján határozhatjuk meg
+    - megmutatja, hogy a test egy adott időpillanatban milyen gyorsan és milyen irányban gyorsul
+    - EVEV esetén állandó, EVEM esetén 0
+-> A pillanatnyi gyorsulást matematikai alakban differenciálhányadosként (vagy határértékként) adható meg:
+    - [ a(t) = dv/dt = lim{Δt->0}( (v(t + Δt) - v(t)) / Δt ) ]
+<TODO> (3) Sebesség idő grafikon EVEV-nél, Mutassa be, hogyan szemléltethető a grafikonon a gyorsulás és az elmozdulás
+-> A sebesség-idő függvény (lineáris) primitív függvénye megadja az adott pillanatban megtett utat
+    - ez a sebesség-idő grafikonon a görbe alatti területnek felel meg
+-> A sebesség-idő függvény első deriváltja a gyorsulás (a), amely EVEV esetén állandó
+    - ez a sebesség-idő grafikonon a görbe adott ponton vett érintővonal meredekségének felel meg
+<TODO> (4) Gyakorlati példa természetes és mesterségesen létrehozott EVEV-re (2-2)
+-> Természetes példák:
+    - Szabadesés (közegellenállás nélkül)
+    - Függőleges hajítás
+-> Mesterségesen létrehozott példák:
+    - Autó haladása egyenes úton, állandó gyorsulással
+    - Lift elindulása vagy megállása

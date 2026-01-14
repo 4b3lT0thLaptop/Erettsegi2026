@@ -1,0 +1,3 @@
+<TODO> (1) Harmonikus rezgőmozgás fogalma
+<TODO> (2) Harmonikus rezgőmozgás dinamikai feltétele
+<TODO> (3) a, v, y iránya a mozgás során
