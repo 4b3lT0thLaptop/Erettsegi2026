@@ -1,0 +1,70 @@
+<TODO> (1) Miért törekszenek a súlytalanságban lebegő folyadékcseppek gömb alakot felvenni? – anyagszerkezeti magyarázat
+-> Súlytalanságban:
+    - a gravitáció hatása elhanyagolható
+    - nem torzítja a csepp alakját
+-> A folyadék molekuláinak kölcsönhatása:
+    - a belső molekulákra minden irányból azonos vonzóerők hatnak
+    - a felületi molekulákra viszont befelé ható eredő erő érvényesül
+-> Következmény:
+    - a folyadék törekszik a felületének csökkentésére
+-> Geometriai tény:
+    - adott térfogat mellett a gömbnek a legkisebb a felülete
+-> Következtetés:
+    - a súlytalanságban lebegő folyadékcseppek a felületi energia minimalizálása miatt gömb alakot vesznek fel
+
+
+<TODO> (2) Fogalmak: felületi energia, felületi feszültség, felületi feszültségből származó erő
+-> FELÜLETI ENERGIA:
+    - a folyadék felületén lévő molekulák többletenergiája
+    - oka: a felületi molekulák kevesebb szomszéddal lépnek kölcsönhatásba
+    - a rendszer arra törekszik, hogy ez az energia minimális legyen
+-> FELÜLETI FESZÜLTSÉG (σ):
+    - megmutatja, mekkora energia szükséges a felület egységnyi növeléséhez
+    - mértékegysége: [ N/m ] vagy [ J/m² ]
+    - anyagfüggő mennyiség
+-> FELÜLETI FESZÜLTSÉGBŐL SZÁRMAZÓ ERŐ:
+    - a felület határvonalán ébred
+    - iránya a felület mentén hat
+    - nagysága:
+        - [ F = σ · l ]
+        - ahol l a határvonal hossza
+-> Következmény:
+    - a folyadékfelület „össze akar húzódni”
+    - ez okozza például a víz felszínén járó rovarok jelenségét
+
+
+<TODO> (3) Nedvesítő és nem nedvesítő folyadékok
+-> A nedvesítés attól függ, hogy:
+    - a folyadék–szilárd test közötti tapadóerő
+    - vagy a folyadék belső kohéziós ereje a nagyobb
+-> NEDVESÍTŐ FOLYADÉK:
+    - a tapadóerő nagyobb, mint a kohéziós erő
+    - a folyadék szétterül a felületen
+    - a peremszög kisebb, mint 90°
+    - példa:
+        - víz üvegen
+-> NEM NEDVESÍTŐ FOLYADÉK:
+    - a kohéziós erő nagyobb, mint a tapadóerő
+    - a folyadék cseppekbe húzódik össze
+    - a peremszög nagyobb, mint 90°
+    - példa:
+        - higany üvegen
+-> Következmény:
+    - a nedvesítés befolyásolja a hajszálcsövességet és a felületi jelenségeket
+
+
+<TODO> (4) Hajszálcsövesség – természeti és gyakorlati példák
+-> HAJSZÁLCSÖVESSÉG:
+    - keskeny csövekben vagy pórusokban fellépő jelenség
+    - a folyadék a gravitációval szemben emelkedhet vagy süllyedhet
+-> Oka:
+    - felületi feszültség
+    - tapadó- és kohéziós erők együttes hatása
+-> Természeti példák:
+    - víz felszívódása a növények szárában
+    - talajvíz felszivárgása a talaj pórusaiban
+-> Gyakorlati példák:
+    - nedvszívó papír, törlőkendő működése
+    - tinta felszívódása a toll hegyében
+-> Következtetés:
+    - a hajszálcsövesség nélkülözhetetlen szerepet játszik a természetben és a technikában
