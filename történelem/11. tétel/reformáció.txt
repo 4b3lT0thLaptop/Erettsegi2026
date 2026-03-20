@@ -26,7 +26,7 @@ Luther Márton fellépése {
 A hatalom Luther ellen {
     a pápa kiátkozta Luthert
     1521: wormsi birodalmi gyűlés: a Német-Római császár is kiátkozta Luthert
-    => Bölcs Frigyes pfalzi fejedelem Luthert Worfburg várában rejtette el
+    => Bölcs Frigyes pfalzi fejedelem Luthert Wartburg várában rejtette el
     -> rejtőzködése alatt Luther németre fordította a bibliát
 
     1529: speyeri birodalmi gyűlés
