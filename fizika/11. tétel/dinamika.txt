@@ -1,0 +1,65 @@
+<TODO> (1) A dinamika alapegyenlete – megfogalmazás és matematikai alak
+-> A dinamika alapegyenlete Newton II. törvénye:
+    - egy test gyorsulása egyenesen arányos a testre ható eredő erővel
+    - és fordítottan arányos a test tömegével
+-> Szöveges megfogalmazás:
+    - ha egy testre eredő erő hat, akkor a test gyorsulva mozog
+    - a gyorsulás iránya megegyezik az eredő erő irányával
+-> Matematikai alak (vektoros forma):
+    - [ \vec{F}_{eredő} = m · \vec{a} ]
+-> Következmények:
+    - ha az eredő erő 0, akkor a test nyugalomban marad vagy egyenes vonalú egyenletes mozgást végez
+    - ha az eredő erő nem 0, a test mozgásállapota megváltozik
+-> A törvény érvényessége:
+    - inerciarendszerekben érvényes
+
+
+<TODO> (2) Erőhatásnak kitett rugó viselkedése, a rugóerő törvénye
+-> Egy rugóra erő hatására:
+    - a rugó megnyúlik vagy összenyomódik
+    - a rugó az eredeti (nyugalmi) hosszát igyekszik visszanyerni
+-> A rugó viselkedése kis alakváltozások esetén:
+    - rugalmas
+    - az alakváltozás arányos a rá ható erővel
+-> A rugóerő törvénye (Hooke-törvény):
+    - [ \vec{F}_{rugó} = −D · \vec{x} ]
+-> A képlet értelmezése:
+    - D: rugóállandó
+    - x: megnyúlás vagy összenyomódás mértéke
+    - a mínusz jel azt fejezi ki, hogy a rugóerő iránya ellentétes az alakváltozás irányával
+-> Fontos megjegyzés:
+    - a törvény csak a rugalmas alakváltozás tartományában érvényes
+
+
+<TODO> (3) A rugóállandó fogalma és mértékegysége
+-> A rugóállandó (D):
+    - megmutatja, hogy a rugó mennyire „merev”
+    - minél nagyobb a D értéke, annál nagyobb erő szükséges az egységnyi megnyújtáshoz
+-> Matematikai meghatározás:
+    - [ D = F / x ]
+-> A rugóállandó mértékegysége:
+    - newton per méter [ N/m ]
+-> Fizikai jelentése:
+    - egy adott rugóra jellemző anyagi állandó
+    - függ a rugó anyagától, hosszától, vastagságától, felcsavarás módjától
+-> Következmény:
+    - különböző rugók azonos erő hatására különböző mértékben nyúlnak meg
+
+
+<TODO> (4) Két eszköz, amelyben rugó található – eltérő szereppel
+-> 1. Rugós erőmérő (dinamométer):
+    - a rugó szerepe:
+        - erő mérésére szolgál
+        - az erő nagyságát a rugó megnyúlásából határozzuk meg
+    - működési elv:
+        - Hooke-törvény alkalmazása
+-> 2. Autó lengéscsillapító rugó:
+    - a rugó szerepe:
+        - rázkódás csökkentése
+        - a jármű és az utasok védelme
+    - működési elv:
+        - energia tárolása és visszaadása
+        - a mozgás kisimítása
+-> Következtetés:
+    - a rugó szerepe lehet mérési célú vagy mechanikai védelmi funkciójú
+    - a rugók sokféle technikai eszköz alapvető elemei

@@ -19,7 +19,7 @@
     - Mivel a test EVEV
      Űmozgást végez, a sebessége időben lineárisan változik
 <TODO> (3) Grafikon alapján a megtett út (s) és gravitációs állandó (g) hogyan határozható meg?
--> A sebesség-idő függvény (lineáris) primitív függvénye megadja az adott pillanatban megtett utat
+-> A sebesség-idő függvény primitív függvénye megadja az adott pillanatban megtett utat
 -> Az út-idő függvény második- és a sebesség-idő függvény első deriváltja állandó, ez a garvitációs gyorsulás (g)
 <TODO> (4) Galilei csillagászatban elért fontos eredményei
 -> Legfőbb felfedezés: gravitációs gyorsulás (g) független a test tömegétől (m)

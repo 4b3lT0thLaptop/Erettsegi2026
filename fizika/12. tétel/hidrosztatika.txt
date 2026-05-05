@@ -1,0 +1,69 @@
+<TODO> (1) A nyomás és a hidrosztatikai nyomás fogalma
+-> NYOMÁS (p) fogalma:
+    - a nyomás az egységnyi felületre merőlegesen ható erő
+-> Matematikai alak:
+    - [ p = F / A ]
+        - F: a felületre merőlegesen ható erő
+        - A: az erő hatásfelülete
+-> A nyomás mértékegysége:
+    - pascal [ Pa ]
+    - [ 1 Pa = 1 N/m² ]
+
+-> HIDROSZTATIKAI NYOMÁS:
+    - nyugalomban lévő folyadék által keltett nyomás
+    - a folyadék minden irányban nyomást gyakorol
+-> Fontos tulajdonság:
+    - azonos mélységben a hidrosztatikai nyomás minden irányban azonos
+
+
+<TODO> (2) A hidrosztatikai nyomás függése és kísérleti alátámasztása
+-> A hidrosztatikai nyomás függ:
+    - a folyadék sűrűségétől (ρ)
+    - a folyadékoszlop magasságától (h)
+    - a nehézségi gyorsulástól (g)
+-> Matematikai összefüggés:
+    - [ p = ρ · g · h ]
+-> Fontos következmény:
+    - a hidrosztatikai nyomás nem függ az edény alakjától
+-> Kísérleti alátámasztás:
+    - Pascal-féle edény:
+        - azonos magasságú, de különböző alakú edények alján azonos a nyomás
+    - Lyukas edény kísérlete:
+        - különböző magasságban lévő lyukakon kifolyó vízsugár eltérő messzire jut
+        - nagyobb mélység → nagyobb nyomás
+    - Búvárharang:
+        - a levegő összenyomódása mutatja a nyomás növekedését mélységgel
+
+
+<TODO> (3) A felhajtóerő oka és Arkhimédész törvénye
+-> A FELHAJTÓERŐ oka:
+    - a folyadékban (vagy gázban) a nyomás a mélységgel nő
+    - a test alsó részére nagyobb nyomás hat, mint a felső részére
+-> Következmény:
+    - a nyomáskülönbség eredőjeként felfelé mutató erő lép fel
+    - ezt nevezzük felhajtóerőnek
+-> ARKHIMÉDÉSZ TÖRVÉNYE:
+    - folyadékba vagy gázba merülő testre akkora felhajtóerő hat,
+      mint az általa kiszorított folyadék vagy gáz súlya
+-> Matematikai alak:
+    - [ F_f = ρ · g · V ]
+        - V: a kiszorított folyadék térfogata
+-> Következmény:
+    - ha a felhajtóerő nagyobb, mint a test súlya → a test lebeg vagy úszik
+    - ha kisebb → a test elsüllyed
+
+
+<TODO> (4) Arkhimédész élete és munkássága
+-> Arkhimédész:
+    - Kr. e. 287 – Kr. e. 212
+    - ókori görög tudós, Szürakuszában élt
+-> Tudományterületek, amelyekben dolgozott:
+    - fizika:
+        - felhajtóerő törvénye
+        - egyszerű gépek (emelők)
+    - matematika:
+        - kör területének és térfogatának vizsgálata
+        - π értékének közelítése
+-> Egyéb jelentősége:
+    - haditechnikai eszközök tervezése
+    - a természettudományos gondolkodás egyik megalapozója

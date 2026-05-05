@@ -1,0 +1,71 @@
+<TODO> (1) Mit értünk azon, hogy az erő vektormennyiség?
+-> Az erő vektormennyiség, mert:
+    - nagysága van
+    - iránya van
+    - hatásvonala van
+    - támadáspontja van
+-> Az erő fizikai jelentése:
+    - az erő a test mozgásállapotát (sebesség nagyságát vagy irányát) megváltoztathatja
+    - az erő a test alakját is megváltoztathatja (deformáció)
+-> Az erőt vektorral ábrázoljuk:
+    - a vektor hossza arányos az erő nagyságával
+    - a nyíl iránya az erő irányát mutatja
+    - a nyíl kezdőpontja az erő támadáspontja
+-> Az erő mértékegysége:
+    - newton [N]
+    - [ 1 N = 1 kg·m/s² ]
+
+
+<TODO> (2) Az erőhatások függetlenségének elve
+-> Az erőhatások függetlenségének elve kimondja, hogy:
+    - ha egy testre egyszerre több erő hat,
+    - akkor ezek az erők egymástól függetlenül fejtik ki hatásukat
+-> Következmény:
+    - a test mozgását az erők vektori összege (eredő erő) határozza meg
+-> Matematikai alak:
+    - [ \vec{F}_{eredő} = \vec{F}_1 + \vec{F}_2 + \vec{F}_3 + ... ]
+-> Fontos megjegyzés:
+    - az egyes erők nem „gyengítik” vagy „erősítik” egymást külön-külön
+    - csak az eredő erő számít a mozgás szempontjából
+-> Kapcsolat Newton II. törvényével:
+    - [ \vec{F}_{eredő} = m·\vec{a} ]
+
+
+<TODO> (3) Három erő összegzése hagyományosan és komponensekre bontással
+-> Hagyományos (grafikus) módszer:
+    - az erővektorokat egymás után helyezzük el (háromszög- vagy sokszögmódszer)
+    - az első vektor kezdőpontjához illesztjük a második vektort
+    - az eredő erő a kezdőponttól a végpontig mutató vektor
+-> Három erő esetén:
+    - ha zárt háromszöget alkotnak, akkor az eredő erő 0
+    - ez egyensúlyi állapotot jelent
+-> Komponensekre bontás módszere:
+    - az erőket koordinátatengelyek mentén felbontjuk
+    - x irányú komponensek: [ F_x ]
+    - y irányú komponensek: [ F_y ]
+-> Az eredő komponensei:
+    - [ F_{eredő,x} = ΣF_x ]
+    - [ F_{eredő,y} = ΣF_y ]
+-> Az eredő erő nagysága:
+    - [ F_{eredő} = √(F_x² + F_y²) ]
+-> Előnye:
+    - pontosabb
+    - számításos feladatoknál jól alkalmazható
+
+
+<TODO> (4) Newton munkássága
+-> Sir Isaac Newton (1643–1727):
+    - angol fizikus, matematikus, csillagász
+    - a klasszikus mechanika megalapítója
+-> Legfontosabb eredményei:
+    - Newton három mozgástörvénye
+    - az általános tömegvonzás törvénye
+-> Newton mozgástörvényei:
+    - I. törvény (tehetetlenség törvénye)
+    - II. törvény: [ \vec{F} = m·\vec{a} ]
+    - III. törvény (hatás–ellenhatás törvénye)
+-> Egyéb tudományos munkái:
+    - differenciál- és integrálszámítás kidolgozása
+    - optikai kutatások (fény színekre bontása)
+-> Jelentősége:
+    - törvényei ma is alapját képezik a klasszikus fizika tanításának
