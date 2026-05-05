@@ -9,7 +9,7 @@ Demokrácia kialakulása/előzményei {
     Arisztokraták:
         -nagybirtokosok
         -régi múltú családok leszármazottjai
-        -politika jog
+        -politikai jog
     Démosz (nem rendelkeztek politikai joggal):
         -kisbirtokosok
         -kézművesek
@@ -49,7 +49,7 @@ Demokrácia kialakulásának folyamata {
     => démosz erősödése
 
     Kleisztenész arkhón (Kr.e. 508):
-        -politikai jog TERÜLETi alapon jár
+        -politikai jog TERÜLETI alapon jár
         -bevezette a "phülé-rendszert"
         -legfőbb hatalmi szerv: Népgyűlés
         -cserépszavazás bevezetése

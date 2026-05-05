@@ -1,0 +1,143 @@
+HŐTAN 1 – ÁLLAPOTVÁLTOZÁSOK ÉS HŐERŐGÉPEK (+ [IZ]ENTRÓPIA)
+
+1. Termodinamikai állapotváltozás fogalma
+– Állapotjelzők változása
+– Reverzibilis és irreverzibilis folyamatok
+
+2. Termodinamikai állapotváltozások fajtái
+– Izochor állapotváltozás
+– Izobár állapotváltozás
+– Izoterm állapotváltozás
+– Adiabatikus állapotváltozás
+– Izentropikus állapotváltozás
+
+3. Állapotváltozások grafikus ábrázolása
+– p–V diagram
+– V–T diagram
+– p–T diagram
+– A munka grafikus értelmezése
+– Körfolyamat megjelenítése diagramokon
+
+4. A termodinamika I. főtétele alkalmazása
+– Hő, munka és belső energia kapcsolata
+– Előjel-konvenciók
+– Energetikai mérleg állapotváltozásoknál
+
+5. Entrópia
+– Entrópia fogalma
+– Entrópia fizikai jelentése
+– Entrópia változása különböző állapotváltozásoknál
+– Izentropikus folyamat értelmezése
+
+6. Hőerőgépek általános jellemzése
+– Hőerőgép fogalma
+– Meleg és hideg hőtartály
+– Körfolyamat szerepe
+– Hasznos munka
+– Hatásfok értelmezése
+
+7. Hőerőgépek típusai és példák
+– Izochor–izobár–izoterm–izochor körfolyamat
+– Carnot-körfolyamat
+– Carnot-hatásfok
+– Otto-ciklus (belső égésű motor)
+– Diesel-ciklus
+– Valós gépek veszteségei
+
+
+HŐTAN 2 – HŐTAN ALAPFOGALMAK ÉS BELSŐ ENERGIA
+
+1. Termodinamikai alapfogalmak
+– Termodinamikai rendszer és környezete
+– Zárt, nyitott és izolált rendszer
+– Termodinamikai egyensúly
+
+2. Állapotjelzők
+– Intenzív állapotjelzők (T, p)
+– Extenzív állapotjelzők (V, E, S)
+– Állapotegyenlet
+– Ideális gáz állapotegyenlete
+
+3. Hőmérséklet
+– Hőmérséklet fizikai jelentése
+– Hőmérsékleti skálák
+– Abszolút hőmérséklet
+
+4. Belső energia
+– A belső energia fogalma
+– A belső energia fizikai jelentése
+– Ideális gáz belső energiája
+– Belső energia változása
+
+5. Hő és munka
+– Hőközlés értelmezése
+– Térfogati munka
+– Külső és hasznos munka
+– Energiaátadás mechanizmusai
+
+6. A termodinamika I. főtétele
+– Energia-megmaradás hőtani alakban
+– Matematikai megfogalmazás
+– Alkalmazás egyszerű folyamatokra
+
+
+HŐTAN 3 – ANYAGSZERKEZETI ÉS HŐTANI JELENSÉGEK
+
+1. Anyagszerkezet alapjai
+– Részecskékből való felépítés
+– Avogadro-törvény
+– Anyagmennyiség fogalma
+– Moláris tömeg
+
+2. Halmazállapotok
+– Szilárd, folyékony és gáz halmazállapot
+– Részecskék mozgása halmazállapotonként
+
+3. Halmazállapot-változások
+– Olvadás és fagyás
+– Párolgás és forrás
+– Lecsapódás és szublimáció
+– Látens hő fogalma
+
+4. Hőkapacitás és fajhő
+– Hőkapacitás definíciója
+– Fajhő fogalma
+– Kalorimetria alapelve
+– Hőmérséklet-kiegyenlítődés
+
+5. Hőterjedés
+– Hővezetés
+– Hőáramlás
+– Hősugárzás
+– Gyakorlati példák
+– Hőszigetelés jelentősége
+
+
+HŐTAN 4 – KINETIKUS GÁZELMÉLET
+
+1. A kinetikus gázmodell alapfeltevései
+– Gázrészecskék mozgása
+– Ütközések jellege
+– Részecskék kölcsönhatása
+
+2. A nyomás mikroszkopikus értelmezése
+– Részecskeütközések a falakkal
+– Nyomás és impulzusváltozás kapcsolata
+
+3. Hőmérséklet kinetikus értelmezése
+– Átlagos mozgási energia
+– Hőmérséklet és energia kapcsolata
+
+4. Ideális gáz törvényeinek kinetikus magyarázata
+– Boyle–Mariotte-törvény
+– Gay–Lussac-törvény
+– Avogadro-törvény értelmezése
+
+5. Brown-mozgás
+– Jelenség leírása
+– Kísérleti megfigyelések
+– Bizonyíték az anyag részecskeszerkezetére
+
+6. A kinetikus gázelmélet jelentősége
+– Makroszkopikus és mikroszkopikus leírás kapcsolata
+– Modell korlátai

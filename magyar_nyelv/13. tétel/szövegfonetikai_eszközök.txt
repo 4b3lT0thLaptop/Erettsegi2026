@@ -1,0 +1,120 @@
+A szövegfonatikai eszközök és az írásjelek kifejező alkalmazása (5.2.4)
+
+A szöveg fogalma
+-> A szöveg nyelvi jelek összefüggő, értelmes egysége.
+-> Kommunikációs céllal jön létre.
+-> Jellemzői:
+   - kohézió (nyelvi összetartottság)
+   - koherencia (tartalmi-logikai összefüggés)
+-> A szöveg mondatokból áll, de jelentése túlmutat az egyes mondatokon.
+
+A szövegkohézió fogalma
+-> A szövegkohézió a szöveg felszíni, nyelvtani összetartottsága.
+-> Nyelvi eszközökkel valósul meg.
+-> Biztosítja, hogy a mondatok egymáshoz kapcsolódjanak.
+-> Eszközei a szövegfonatikai (szövegösszekötő) eszközök.
+
+A szövegfonatikai eszközök csoportjai
+
+Névmási kapcsolás
+-> A korábban említett szóra vagy mondatrészre utal vissza.
+-> Elkerüli a fölösleges ismétlést.
+-> Fajtái:
+   - személyes névmás (ő, ők)
+   - mutató névmás (ez, az)
+   - visszaható névmás (maga)
+-> Példa:
+   - „Megérkezett Anna. Ő már várt ránk.”
+
+Névszói és szinonimikus ismétlés
+-> Tudatos szóismétlés vagy jelentésben rokon szavak használata.
+-> Erősíti a témát, hangsúlyt ad.
+-> Fajtái:
+   - szó szerinti ismétlés
+   - rokon értelmű szavak
+   - körülírás
+-> Példa:
+   - „A diák tanult. A fiatal komolyan készült a vizsgára.”
+
+Kötőszók és kötőszós szerkezetek
+-> Logikai viszonyt fejeznek ki a mondatok között.
+-> Típusai:
+   - kapcsolatos (és, meg)
+   - ellentétes (de, azonban)
+   - okhatározói (mert, ezért)
+   - következtető (tehát, így)
+-> Segítik a gondolatmenet követhetőségét.
+
+Utó- és előreutalás
+-> Utalás a szöveg egy másik részére.
+-> Előreutalás: a későbbi információra utal.
+-> Visszautalás: korábbi elemre utal.
+-> Gyakori eszköz tudományos és érvelő szövegekben.
+
+Ellipszis (kihagyás)
+-> A könnyen kitalálható mondatrész elmarad.
+-> A szöveg tömörítését szolgálja.
+-> Csak akkor működik, ha az összefüggés egyértelmű.
+-> Példa:
+   - „Én elmegyek, te maradsz.”
+
+A szövegkoherencia
+-> A szöveg belső, tartalmi-logikai egysége.
+-> Nemcsak nyelvi, hanem gondolati összefüggés.
+-> Feltétele:
+   - közös téma
+   - logikus szerkesztés
+   - világos viszonyok az információk között
+
+Az írásjelek szerepe a szövegben
+-> Az írásjelek segítik az értelmezést.
+-> Tagolják a szöveget.
+-> Kifejező funkciójuk is lehet, nemcsak szabályozó szerepük.
+
+Az írásjelek kifejező alkalmazása
+
+Pont (.)
+-> Lezártságot, nyugalmat fejez ki.
+-> Tárgyilagos, kijelentő hangnemet sugall.
+
+Vessző (,)
+-> Elkülönít, tagol.
+-> Lassítja az olvasást.
+-> Segít az értelmezésben és hangsúlyozásban.
+
+Pontosvessző (;)
+-> Köztes szerep a vessző és a pont között.
+-> Önálló, de összefüggő gondolatokat kapcsol össze.
+
+Kettőspont (:)
+-> Magyarázatot, felsorolást vezet be.
+-> Feszültséget kelt, előkészít.
+
+Gondolatjel (–)
+-> Közbevetést, hangsúlyos megjegyzést jelez.
+-> Élőbeszédszerű, érzelmileg telített hatású.
+
+Felkiáltójel (!)
+-> Erős érzelmeket fejez ki.
+-> Parancs, felszólítás, indulat jele.
+
+Kérdőjel (?)
+-> Kérdést, bizonytalanságot, kételyt fejez ki.
+-> Retorikai kérdésnél érzelmi többletet hordoz.
+
+Három pont (...)
+-> Elhallgatást, megszakítottságot jelez.
+-> Gondolkodást, érzelmi telítettséget sugall.
+-> Feszültségkeltő eszköz.
+
+Az írásjelek stilisztikai szerepe
+-> Befolyásolják a szöveg hangulatát.
+-> Segítik az érzelmi árnyalást.
+-> Szépirodalmi szövegekben különösen fontosak.
+-> Tudatos használatuk erősíti a kifejezőerőt.
+
+Összegzés
+-> A szövegfonatikai eszközök biztosítják a szöveg kohézióját.
+-> Az írásjelek nemcsak szabályoznak, hanem jelentést és hangulatot is hordoznak.
+-> A jól szerkesztett szöveg nyelvileg összetartó és tartalmilag koherens.
+-> Ezek ismerete elengedhetetlen a szövegértéshez és a tudatos szövegalkotáshoz.

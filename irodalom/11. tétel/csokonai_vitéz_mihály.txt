@@ -1,0 +1,81 @@
+Csokonai Vitéz Mihály (2.5)
+
+Életrajzi háttér - Csokonai Vitéz Mihály (1773–1805) {
+    - 1773-ban született Debrecenben, polgári–értelmiségi családban.
+    - Apját korán elveszítette, anyja nagy gondot fordított taníttatására.
+    - A debreceni Református Kollégium diákja, kiváló nyelvtudással (latin, görög, francia).
+    - Tanársegéd lett, de fegyelmi vétségek és újító szemlélete miatt elbocsátották.
+    - Élete nagy részét anyagi bizonytalanság, nélkülözés jellemezte.
+    - Sikertelen álláskeresések, mecénásoktól való függés.
+    - Szerelme Vajda Julianna (Lilla), kapcsolatuk megszakadása mélyen hatott költészetére.
+    - 1805-ben, fiatalon, tüdőbajban halt meg Debrecenben.
+}
+Pályakép {
+    - A magyar felvilágosodás és korai romantika kiemelkedő költője.
+    - A korabeli magyar irodalom egyik legsokoldalúbb alakja.
+    - Tudatos költői program: a magyar nyelv és költészet megújítása.
+    - Nem illeszkedett szorosan egyetlen irodalmi irányzathoz sem.
+    - Gyakran perifériára szorult, életében kevés elismerést kapott.
+    - Fő témái:
+      - szerelem (öröm, vágy, csalódás)
+      - életöröm és mulandóság
+      - magány, kitaszítottság
+      - filozófiai elmélkedés
+    - Csokonai Vitéz Mihály stílusának szintézise:
+      - több stílusirányzat egyidejű jelenléte
+      - rokokó: könnyedség, játékosság, érzelmi finomság
+      - népies hang: közvetlen megszólalás, dalforma, folklór-elemek
+      - klasszicizmus: formai fegyelem, műveltségi háttér
+      - preromantika: szenvedély, egyéni érzések hangsúlya
+    - Jelentősége:
+      - átmeneti költői alkat a felvilágosodás és a romantika között
+      - előkészíti a későbbi magyar líra fejlődését
+}
+Szerelemdal a csikóbőrös kulacshoz {
+    - Műfaj: dal
+    - Stílusirányzat: népies
+    - Téma: szerelem és bor összekapcsolása, életöröm.
+    Tartalom:
+    - A lírai én megszólítja a csikóbőrös kulacsot.
+    - A bor mint vigasz és örömforrás jelenik meg.
+    - A szerelem hiányát a bor oldja, enyhíti a fájdalmat.
+    - A dalos, vidám felszín mögött ott a magány és a csalódás.
+    Stílus és forma:
+    - Egyszerű, köznyelvi megfogalmazás.
+    - Népdalos ritmus, ismétlések.
+    - Megszemélyesítés: a kulacs beszédpartner.
+    - Könnyed hangvétel, humoros elemek.
+    Jelentés:
+    - Az élet élvezete mint túlélési stratégia.
+    - A népi kultúra és a személyes érzelmek összekapcsolása.
+}
+Tartózkodó kérelem {
+    - Műfaj: szerelmi líra
+    - Stílusirányzat: rokokó
+    - Téma: szerelmi vágy visszafogott, udvarias megfogalmazása.
+    Tartalom:
+    - A lírai én szerelmet vall, de tiszteletteljesen, óvatosan.
+    - Nem követel, hanem kér és remél.
+    - A szeretett nő idealizált alak.
+    Stílus és forma:
+    - Finom, választékos nyelvezet.
+    - Kecses képek, érzelmi árnyaltság.
+    - Udvariasság, játékos báj.
+    - Rövid sorok, dallamosság.
+    Rokokó jegyek:
+    - Könnyedség, elegancia.
+    - Érzelmek esztétizálása.
+    - A szerelem mint finom érzelmi játék.
+    Jelentés:
+    - A vágy és az önfegyelem egyensúlya.
+    - A szerelmi líra kifinomult, kulturált megszólaltatása.
+}
+Az estve {
+
+}
+Összegzés:
+- Csokonai Vitéz Mihály a magyar költészet egyik legösszetettebb alakja.
+- Költészete stílusok szintézise: népies, rokokó, klasszicista és preromantikus elemek.
+- Művei egyszerre tükrözik életörömét és tragikumát.
+- A Szerelemdal a csikóbőrös kulacshoz a népiességet, a Tartózkodó kérelem a rokokó finomságát képviseli.
+- Hatása meghatározó a 19. századi magyar líra fejlődésében.

@@ -1,0 +1,125 @@
+A szónoki beszéd fajtái és jellemzői (6.1.5)
+
+A szónoki beszéd fogalma
+-> A szónoki beszéd (retorikai beszéd) nyilvános megszólalás.
+-> Célja a hallgatóság meggyőzése, befolyásolása vagy érzelmi megindítása.
+-> Élőszóban hangzik el, de gyakran írott formában készül.
+-> Tudatosan megtervezett, felépített szöveg.
+
+A retorika fogalma
+-> A retorika a hatásos beszéd tudománya.
+-> Már az ókori görögöknél és rómaiaknál kialakult (Arisztotelész).
+-> Vizsgálja:
+   - a beszéd célját
+   - felépítését
+   - nyelvi és stiláris eszközeit
+
+A szónoki beszéd célja
+-> A hallgatóság:
+   - meggyőzése
+   - érzelmi bevonása
+   - cselekvésre ösztönzése
+-> A beszéd mindig egy adott helyzethez és közönséghez igazodik.
+
+A szónoki beszéd klasszikus felépítése
+-> Bevezetés (exordium):
+   - figyelemfelkeltés
+   - kapcsolatfelvétel a hallgatósággal
+-> Elbeszélés (narratio):
+   - az előzmények, tények ismertetése
+-> Tételmondat, bizonyítás (argumentatio):
+   - érvek felsorakoztatása
+-> Cáfolás (refutatio):
+   - ellenérvek megcáfolása
+-> Befejezés (peroratio):
+   - összefoglalás
+   - érzelmi hatáskeltés
+
+A szónoki beszéd fajtái (klasszikus felosztás) {
+    Törvényszéki (jogi) beszéd
+    -> Célja:
+       - vád vagy védelem
+    -> Idősík:
+       - múltbeli események
+    -> Jellemzői:
+       - logikus érvelés
+       - bizonyítékok felsorakoztatása
+       - tárgyilagos hangnem
+    -> Példa:
+       - bírósági perbeszéd
+
+    Tanácsadó (politikai) beszéd
+    -> Célja:
+       - döntés befolyásolása
+       - cselekvésre ösztönzés
+    -> Idősík:
+       - jövő
+    -> Jellemzői:
+       - érvelés és meggyőzés
+       - közösségi érdek hangsúlya
+       - gyakran szenvedélyes hangnem
+    -> Példa:
+       - parlamenti beszéd
+       - választási beszéd
+
+    Bemutató (ünnepi) beszéd
+    -> Célja:
+       - dicséret vagy elmarasztalás
+    -> Idősík:
+       - jelen
+    -> Jellemzői:
+       - érzelmi hatáskeltés
+       - emelkedett stílus
+       - képszerű nyelv
+    -> Példa:
+       - ünnepi beszéd
+       - megemlékezés
+       - búcsúbeszéd
+}
+A szónoki beszéd nyelvi és stiláris jellemzői
+
+Megszólítás
+-> Közvetlen kapcsolatot teremt a hallgatósággal.
+-> Gyakori a többes szám első személy használata (mi).
+
+Érvelés
+-> Logikus gondolatmenet.
+-> Ok-okozati viszonyok bemutatása.
+-> Példák, bizonyítékok alkalmazása.
+
+Retorikai eszközök
+-> Retorikai kérdés:
+   - nem vár választ, hatáskeltő
+-> Ismétlés:
+   - nyomatékosítás
+-> Fokozás:
+   - érzelmi erősítés
+-> Ellentét:
+   - kiélezi a mondanivalót
+
+Stílus
+-> Ünnepélyes, emelkedett.
+-> Közérthető, világos megfogalmazás.
+-> Gyakran képszerű, metaforikus nyelv.
+
+A hallgatóság szerepe
+-> A beszéd mindig a befogadóhoz igazodik.
+-> Fontos a:
+   - életkor
+   - műveltség
+   - érdeklődési kör figyelembevétele
+-> A hatásosság feltétele az együttműködés a hallgatósággal.
+
+A szónoki beszéd jelentősége napjainkban
+-> Jelen van:
+   - politikában
+   - közéletben
+   - oktatásban
+   - médiában
+-> Fejleszti a kommunikációs és érvelési készséget.
+
+Összegzés
+-> A szónoki beszéd célja a meggyőzés és hatáskeltés.
+-> Klasszikus fajtái: törvényszéki, tanácsadó és bemutató beszéd.
+-> Tudatos felépítés és nyelvi eszköztár jellemzi.
+-> A retorikai ismeretek segítik a hatékony, tudatos megszólalást.

@@ -1,4 +1,4 @@
-10. tétel - A Földrajzi Felfedezések
+8. tétel - A Földrajzi Felfedezések
 https://www.youtube.com/watch?v=F4nSgNlk24A
 
 A felfedezések feltételei {
@@ -44,7 +44,7 @@ A felfedezések következményei {
     => nőttek az árak (árforradalom)
 
     a Földközi-tenger helyett az Atlanti-óceán lett a fő kereskedelmi útvonal
-    => kereskedelmi háromszök alakult ki
+    => kereskedelmi háromszög alakult ki
     ------------------------------------------
     |                [Európa]                |
     |                 />   \                 |

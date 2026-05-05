@@ -1,0 +1,50 @@
+10. tétel - A Rákóczi-Szabadságharc
+https://www.youtube.com/watch?v=C4QjCpT3AI4
+
+A szabadságharc (1703-1711) {
+    -----------------------------------------------------------------------------
+    | Előzmény:
+    | 1541-től 1699-ig Magyarország egy része török megszállás alatt áll
+    |
+    | 1689-ben az osztrákok felszabadítják Budát
+    | -> cserébe Magyarországnak le kell mondania:
+    |     -a szabad királyválasztás jogáról
+    |     -az Aranybulla ellenállási záradékáról
+    | 1699: a törökök kiűzése
+    | -> elveszik a magyar birtokokat
+    | -> elbocsátják a magyar végvári katonákat
+    | => hatalmas elégedetlenség a Habsburg dinasztiával szemben
+    | -> a mozgalom élére II. Rákóczi Ferenc áll
+    -----------------------------------------------------------------------------
+    brezáni kiáltvány (1703): Rákóczi harcba hív nemest és nemtelent
+    vetési pátens: felmentés a jobbágyi szolgáltatások alól a harcok idejére
+    gyalui pátens: Rákóczi védelmet ígér a nemeseknek
+
+    1703-ban megkezdődik a szabadságharc
+    -> jó magyar lovasság, de nincs tüzérség
+    -> spanyol örökösödési háború => XIV. Lajos támogatja a magyarokat
+
+    kezdeti sikerek:
+    -> a kurucok elfoglalják a Felvidéket, Tiszántúlt és a Duna-Tisza közét
+
+    Országgyűlések:
+        -1705: szécsényi országgyűlés
+            -> Magyarország államformája rendi konföderáció
+            -> Rákóczi lesz Magyarország vezető fejedelme
+        -1707: ónódi országgyűlés
+            -> Habsburg ház trónfosztása (detronizálása)
+            -> francia segély elapad => rézpénzt veretnek, nemesek is adóznak
+}
+A bukás {
+    1708: Trencséni csata: kuruc vereség
+    1710: Romhányi csata: kuruc siker
+    -> Rákóczi segítséget kér az orosz cártól de nem kap
+
+    1711 május 1: majtényi fegyverletétel
+    -> kurucok kapitulálnak
+
+    szatmári béke: Magyarország nem független de a HB-n belül önálló
+    -> általános amnesztia
+    -> vallásszabadság
+    -> megmarad az országgyűlés
+}

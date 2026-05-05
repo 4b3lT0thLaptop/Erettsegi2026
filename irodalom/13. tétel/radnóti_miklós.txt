@@ -1,0 +1,94 @@
+Radnóti Miklós (3.14)
+
+Életrajzi háttér – Radnóti Miklós (1909–1944) {
+    - 1909-ben született Budapesten, zsidó polgári családban.
+    - Születésekor édesanyja és ikertestvére meghalt, ez egész életére kiható trauma.
+    - Apját fiatalon elveszítette, neveltetésében nagybátyja játszott szerepet.
+    - Tanulmányait a szegedi egyetemen végezte, magyar–francia szakon.
+    - Korán elköteleződött a költészet mellett, tudatos művészi programmal.
+    - 1935-ben feleségül vette Gyarmati Fannit, aki élete végéig társa és múzsája maradt.
+    - Zsidó származása miatt többször behívták munkaszolgálatra.
+    - 1944-ben a bori munkatáborba hurcolták.
+    - A halálmenet során, Abdánál lőtték agyon, tömegsírba temették.
+    - Holttestének exhumálásakor találták meg nála a Bori noteszt.
+}
+Pályakép {
+    - A 20. századi magyar líra egyik legnagyobb alakja.
+    - Költészetére jellemző a klasszikus formafegyelem és a modern érzékenység.
+    - Korai verseiben erősebb az avantgárd és a modernista hatás.
+    - Később egyre letisztultabb, humanista hangvétel jellemzi.
+    - Fő témái:
+      - szerelem és hűség (Fanni alakja)
+      - emberi méltóság
+      - háború borzalmai
+      - halál, elmúlás
+      - hazaszeretet
+    - Stílusjegyek:
+      - kötött formák (hexameter, ecloga)
+      - klasszikus hagyományok (antik minták)
+      - pontos, fegyelmezett nyelv
+      - megrendítő képiség
+    - Jelentősége:
+      - a humanista költő példája a barbárság korában
+      - életműve erkölcsi és művészi mérce
+}
+7. ecloga {
+    - Megjelenés: 1944
+    - Műfaj: ecloga
+    - Forma: hexameter
+    - Téma: fogság, honvágy, szerelem, költészetbe kapaszkodás.
+    Tartalom:
+    - A lírai én a bori munkatáborban beszél.
+    - Megszólítja feleségét, Fannit.
+    - A tábor sivár valósága és az otthon emléke váltakozik.
+    - A költészet mint menedék jelenik meg.
+    Stílus és jelentés:
+    - Az antik műfaj és a modern történelmi helyzet feszültsége.
+    - Az ecloga idilli hagyományának szétfeszítése.
+    - A vers egyszerre vallomás és túlélési kísérlet.
+    - A szeretet és az emlékezés tartja életben a lírai ént.
+}
+Erőltetett menet {
+    - Megjelenés: 1944
+    - Műfaj: elégikus hangvételű lírai költemény
+    - Téma: halálközelség, testi-lelki kimerültség, emlékezés.
+    Tartalom:
+    - A munkaszolgálatosok gyalogmenetét írja le.
+    - A lírai én fizikailag és lelkileg is a végsőkig kimerült.
+    - A jelen szenvedéseivel szemben múltbeli képek jelennek meg.
+    - Az otthon és Fanni emléke ellenpontozza a borzalmakat.
+    Stílus és forma:
+    - Fegyelmezett szerkezet, kötött ritmus.
+    - Erős képek: vér, sár, halál.
+    - A szépség és a pusztulás éles kontrasztja.
+    Jelentés:
+    - Az emberi méltóság utolsó megőrzése.
+    - A remény halvány, de még jelen van.
+}
+Razglednicák {
+    - Megjelenés: 1944
+    - Műfaj: epigrammaszerű rövid lírai versek
+    - A Razglednicák egy versciklust alkotnak.
+    - Téma: halál, erőszak, embertelenség, végső számvetés.
+    Tartalom:
+    - Rövid, tömör képekben ábrázolja a háború borzalmait.
+    - A kivégzés, a pusztítás közvetlen megjelenítése.
+    - Nincs illúzió, nincs menekvés.
+    Stílus:
+    - Rendkívüli sűrítés.
+    - Tárgyilagos, hideg hang.
+    - Megrázó erejű záróképek.
+    Jelentés:
+    - A költő saját halálának előérzete.
+    - A humanizmus végső tanúságtétele.
+}
++ (extra) Bori notesz {
+    - A bori munkatáborban írt versek gyűjteménye.
+    - Kabátja zsebében találták meg halála után.
+    - A magyar irodalom egyik legmegrendítőbb dokumentuma.
+}
+Összegzés:
+- Radnóti Miklós költészete a humanizmus és erkölcsi helytállás példája.
+- Klasszikus formákban szólaltatja meg a modern kor tragédiáját.
+- Utolsó versei a magyar irodalom legmegrázóbb alkotásai közé tartoznak.
+- Életműve egyszerre művészi csúcsteljesítmény és történelmi tanúságtétel.

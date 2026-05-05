@@ -1,11 +1,11 @@
-7. tétel - Károly Róbert Uralkodása
+6. tétel - Károly Róbert Uralkodása
 https://www.youtube.com/watch?v=JZsTMKftDlY
 
 Károly Róbert uralkodása (1308-1342) {
     -------------------------------------------------------------------------------------------------
     | Előzmény:                                                                                     |
     | III. András halála: kihalt az Árpád-ház fiú ágon (1301)                                       |
-    | -> 1301-1308: inerregnum: király nélküli időszak, trónharcok                                  |
+    | -> 1301-1308: interregnum: király nélküli időszak, trónharcok                                 |
     | -> trónkövetelők: leányági Árpád-háziak:                                                      |
     |     -Premysl Vencel, cseh                                                                     |
     |     -Wittelsbach Ottó, bajor                                                                  |
@@ -37,5 +37,5 @@ Gazdaságpolitikája {
 }
 Külpolitikája {
     -1335-ben részt vett a visegrádi királytalálkozón
-    -megszerezte Nagy Lajos fiának a lengyel trónt
+    -megszerezte fiának, Nagy Lajosnak a lengyel trónt
 }
