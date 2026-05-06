@@ -1,2 +1,84 @@
 11. tétel - Mária Terézia és II. József
 https://www.youtube.com/watch?v=0nHhmYoQp9k
+
+Mária Terézia uralkodása (1740-1780) {
+    ---------------------------------------------------------------------------------------------
+    | Előzmény:                                                                                 |
+    | szatmári béke (1711): lezárul a Rákóczi szabadságharc (Rákóczi száműzetésbe vonul)        |
+    | -> kompromisszum a bécsi abszolutizmus és a magyar rendi alkotmányosság között            |
+    |                                                                                           |
+    | I. József után III. Károly a trónon                                                       |
+    | -> koronázási hitlevél (1712): biztosítja a magyar királyság önállóságát                  |
+    |                                                                                           |
+    | 1722-1723 évi országgyűlés                                                                |
+    | -> III. károly hívja össze az örökösödési kérdés megbeszélésére                           |
+    | -> törvénybe iktatják a PRAGMATICA SANCTIÓT                                               |
+    | -> a magyar trónt a Habsburg-ház nőágon is örökölheti                                     |
+    | -> a két birodalomfél (Ausztria + Magyarország) oszthatatlan, közösen öröklődik           |
+    | -> közös védekezés külső támadásokkal szemben                                             |
+    | -> rendi kiváltságok tiszteletben tartása (nemesi adómentesség)                           |
+    ---------------------------------------------------------------------------------------------
+    1740-ben Mária Terézia a Pragmatica Sanctio értelmében trónra jut
+    -> II. (Nagy) Frigyes porosz király nem fogadja el az uralkodót
+    => osztrák örökösödési háború (1741-1748): spanyol, francia, porosz támadás a HB ellen
+    -> Mária Terézia a magyar rendek segítésgét kéri
+    -> a magyar rendek katonákat adnak, cserébe megerősítik rendi jogaikat
+    => a HB elveszíte legértékesebb tartományát, Sziléziát
+}
+Mária Terézia rendeletei {
+    Vámrendelet (1754) (kettős vámhatár)
+    -> CÉL: a bevételek erőteljes növelése
+    -> RENDELET: belső és külső vámhatár felállítása
+        -1. vámhatár: a HB köré
+            -> a merkantilista gazdaságpolitika jegyében születik (cél: nyersanyag benntartása)
+            -> magas (~30%) vám: kifelé nyersanyagra és befelé iparcikkre
+            -> alacsony (~3%) vám: befelé nyersanyagra és kifelé iparcikkre
+        -2. vámhatár: Magyarország köré
+            -> a magyar nemesi adómentesség miatt születik
+            -> alacsony (~3%) vám: kifelé nyersanyagra és befelé iparcikkre
+
+    Úrbéri rendelet (1767) (Urbarium)
+    -> CÉL: jobbágyterhek csökkentése, jobbágy mint adóalany védelme
+    -> RENDELET: rögzíti a jobbágytelek és a majorság arányát
+        -a földesúr által szedett adó nem lehet több mint 1 forint
+        -a robot csak heti 1 igás vagy 2 nap gyalogrobot lehetett
+
+    Oktatási rendelet (1777) (Ratio Edicationis)
+    -> CÉL: az államnak hasznos állampolgárok kinevelése
+    -> RENDELET: az egyház mellett az állam is működtet iskolákat
+        -6 és 12 éves kor között tankötelezettség
+        -egységes rendszer népiskolától egyetemig
+        -modern tantárgyak tanítása
+}
+Felvilágosult abszolutizmus {
+    -Mária Terézia uralkodását felvilágosult abszolutizmus jellemezte
+    -Lényege:
+        -a hatalomgyakorlás módja abszolutista (nincs rendi gyűlés, rendeletekkel kormányoz)
+        -felvilágosult törvények/reformok születnek
+}
+II. József uralkodása (1780-1790) {
+    -Mária Terézia fia, 40 évesen jut trónra (türelmetlen)
+    -nem fogadja el a magyar koronát, így a magyar rendek jogait sem
+    -csak rendeletekkel kormányoz (~6000 rendeletet hoz)
+}
+II. József rendeletei {
+    Türelmi rendelet
+    -> CÉL: a vallási ellentétek megszüntetése
+    -> RENDELET: szabadabb vallásgyakorlás a reformátusoknak, ortodoxoknak és zsidóknak
+        -nem katolikus is vállalhat állami hivatalt
+        -feloszlatta a haszontalan szerzetesrendeket
+
+    Jobbágyrendelet
+    -> CÉL: a jobbágyterhek további enyhítése
+    -> RENDELET: eltörli a röghözkötést (a jobbágyok szabadon költözhetnek)
+        -a jobbágy tanulhat szakmát (ipari forradalom miatt)
+        -megtiltja a "jobbágy" kifejezés használatát
+
+    Nyelvrendelet
+    -> CÉL: egységes birodalmi nyelv létrehozása
+    -> RENDELET: a latin helyett a német lesz a közigazgatás nyelve
+}
+Nevezetes tollvonás {
+    -II. József uralma végére szembesül népszerűtlenségével
+    -Halálos ágyán összes rendeletét visszavonja, kivéve a türelmi és jobbágyrendeletet
+}
