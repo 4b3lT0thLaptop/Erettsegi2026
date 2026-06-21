@@ -11,7 +11,7 @@ A felfedezések feltételei {
     | -> hatalmas vámokat szednek                                                           |
     | => új kereskedelmi útvonalakra volt szükség Európa és a távol kelet között            |
     -----------------------------------------------------------------------------------------
-    térkép, iránytű, szextáns megjelenése
+    technológia fejlődik: térkép, iránytű, szextáns megjelenése
     => segítették a tájékozódást az óceánon/tengeren
     -> karavellák épültek
     -> hajósiskolákat alakítottak

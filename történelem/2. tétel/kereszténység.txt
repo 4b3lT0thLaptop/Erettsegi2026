@@ -1,3 +1,37 @@
 2. tétel - Kereszténység
 https://www.youtube.com/watch?v=UIgS6NnI3Tw
 
+Kereszténység előzményei {
+    ---------------------------------------------------------
+    | Előzmény:                                             |
+    | Kr.e. 63: Róma meghódította Palesztinát (zsidó állam) |
+    | => zsidóság messiásvárása (Palesztina felszabadulása) |
+    ---------------------------------------------------------
+    Jézus:
+        -Betlehenben született majd Názáretben nőtt fel
+        -Judea szerte terjesztette a kereszténység tanait
+        -prédikációit tanítványai lejegyezték -> újszövettségi evangéliumok
+        -zsidóság megváltóként tekintett rá
+        -zsidó papság veszélyeztetve érezte hatalmát
+            => Heródes Antipász (Galileia uralkodója) elrendelte Jézus kivégzését
+    Jézus halálát követően tanítványai terjeszteni kezdték a keresztény vallást
+}
+Keresztény vallás kialakulása {
+    Pál apostol:
+        -keresztényüldözőből lett apostol
+        -a nem-zsidók és a gazdagok körében is terjesztette a kereszténységet
+        -vértanúként halt meg
+    -> munkássága nyomán alakultak meg az első keresztény központok, patriarkátusok (Róma, Jeruzsálem...)
+
+    Kr.u. 2. század:
+        -kereszténység erősödése, lassú terjedés
+        -gyülekezetek alakulnak élükön püspökökkel (későbbi egyházszervezet alapjai)
+        -a kereszténység a Római Birodalmon kívülre terjed => diaszpóra kialakulása
+    Kr.u. 3. század:
+        -Római Birodalomban válság => kereszténység terjedése felgyorsul
+        -a római vezetés szembeszállt a keresztény vallással (Decius, Diocletianus) => keresztényüldözés
+    Kr.u. 3. század:
+        -313: Constantinus császár engedélyezte a keresztény vallás gyakorlását
+        -325: első (níceai) zsinat: dogmák lefektetése (szentháromság, liturgiák rendje...)
+        -391: Theodosius császár államvallássá tette a kereszténységet (birodalmi egység fenntartása miatt)
+}

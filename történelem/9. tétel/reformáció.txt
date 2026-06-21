@@ -56,6 +56,6 @@ Az ellenreformáció {
     -> eltörölték a búcsúcédulát
     -> elküldték a nem megfelelő papokat
     -> a papokat tanították
-    -> megalakult a jezsuita rend, ami mint ezt segítette
+    -> megalakult a jezsuita rend, ami mind ezt segítette
     -> barokk templomok épülnek
 }

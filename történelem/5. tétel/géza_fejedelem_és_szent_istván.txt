@@ -40,7 +40,7 @@ István uralkodása (997-1038) {
     Egyházszervezés:
         -István 10 egyházmegyét (püspökséget) alakított Magyarországon
         -püspök: egyházmegye vezetője
-        -István engedélyt adott két érsekség kialakítása -> Esztergom, Kalocsa
+        -István engedélyt kapott két érsekség kialakítása -> Esztergom, Kalocsa
         -10 falunként építettek 1 templomot
         -kötelező vasárnapi mise
         -tized fizetése (a termény 1/10-e)
