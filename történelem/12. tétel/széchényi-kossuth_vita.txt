@@ -1,2 +1,47 @@
 12. tétel - Reformkor és a Széchenyi-Kossuth Vita
 https://www.youtube.com/watch?v=LunaNmx7SpY
+
+Reformkor {
+    ---------------------------------------------------------------------
+    | Előzmény:                                                         |
+    | a feudális Magyarország gazdasági/társadalmi problémákkal küzd    |
+    |    -ősiség törvénye akadályozza a hitelfelvételt                  |
+    |    -jobbágykérdés: elavult feudális rendszer                      |
+    |    -elmaradott ipar                                               |
+    |    -a magyarság aránya kevesebb mint 50%                          |
+    ---------------------------------------------------------------------
+    Reformkor célkitűzései:
+        -gazdasági modernizáció: feudalizmus felszámolása + reformkor vímányainak meghonosítása
+        -társadalmi modernizáció: feudális társadalmi viszonyok eltörlése + polgári társadalom kialakítása
+        -nemzeti kérdés: magyar nyelv és kultúra felvirágoztatása
+}
+Széchényi István {
+    -1791-ben született Bécsben, arisztokrata családba
+    -katonai szolgálat után körbeutazza Európát (Anglia-Törökország)
+        => az ipari forradalom hívévé válik
+    -PROGRAMJA: gazdasági reformok kellenek
+        -el kell törölni az ősiség törvényét
+        -jobbágyfelszabadítás önkéntes örökváltság útján
+        -lassú, átgondolt reformok HB-val együttműködve
+        -kizárná a tömegeket a politikából
+    -Művei: Hitel, Világ, Stádium (12 pontos reformprogram)
+    -Gyakorlati tevékenysége: Lánchíd, folyószabályozás, MTA megalapítása...
+}
+Kossuth Lajos {
+    -1802-ben született Monokon, nemesi családba
+    -jogi tanulmányokat folytatott, majd ügyvéd lett
+    -bejutott a 1832-1836 évi országgyűlésre -> Országgyűlési Tudósítások
+        => cenzúra miatt elitélik -> börtönbüntetés ( => angolt, közgazdaságtant tanul)
+    -PROGRAMJA: politikai reformok kellenek
+        -el kell törölni az ősiség törvényét
+        -jobbágyfelszabadítás kötelező örökváltság útján
+        -gyors reformok, akár HB ellenében is
+        -bevonná a tömegeket a politikába
+    -programját a Pesti Hírlap vezércikkeiben közvetítette
+    -Gyakorlati tevékenysége: Védegylet, Pesti Hírlap, Ellenzéki Nyilatkozat...
+}
+Reformkori sikerek {
+    -1839-1840-es országgyűlés elfogadja az önkéntes örökváltságot
+    -magyar mint államnyelv visszaállítása
+    -vallásszabadság kiterjesztése
+}

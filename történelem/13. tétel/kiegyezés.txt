@@ -1,3 +1,49 @@
 13. tétel - A Kiegyezés
 https://www.youtube.com/watch?v=ieQ_-fhhZgg
 https://www.youtube.com/watch?v=hsb2CijBBkw
+
+A kiegyezés {
+    -------------------------------------------------------------------------------------------------
+    | Előzmény:                                                                                     |
+    | 1848-49-es szabadságharc leverése => megtorlás Haynau vezetésével                             |
+    | -> Bach-rendszer (1850-59): HB megpróbálja beolvasztani Magyarországot                        |
+    | -> magyarok ellenállnak a germanizációnak, legsikeresebb a passzív ellenállás (Deák Ferenc)   |
+    |                                                                                               |
+    | 1860-as években megindul a közeledés (HB katonai vereségeket szenved, kimerül az ellenállás)  |
+    | -> Ferenc József kiadja az Októberi Diplomát (1860) => elutasítják                            |
+    | => Februári Pátens (1861): Ferenc József kétkamarás birodalmi országgyűlést javasol           |
+    | -> Húsvéti Cikk (1865): Deák Ferenc a Pragmatica Sanctiora hivatkozva közös ügyeket javasol   |
+    -------------------------------------------------------------------------------------------------
+    tárgyalások kezdődnek Bécs és Budapest között
+    -> a HB meg akarja őrizni nagyhatalmi státuszát
+    -> Magyarország nagyobb önállóságot akar
+
+    a kompromisszum alapjai: közös ügyek
+    => 1867: kiegyezés: megalakul az Osztrák-Magyar Monarchia
+}
+Államszervezet {
+    új államszervezet neve: Osztrák-Magyar Monarchia
+    -> államformája: kétközpontú, dualista alkotmányos monarchia
+    -> uralkodó: Ferenc József (osztrák császár és magyar király)
+        -a hadsereg parancsnoka
+        -Előszentesítési joga van
+    -> közös ügyek: hadügy, külügy + ezek fedezésére szolgáló pénzügy
+        -a közös minisztériumok 60-60 fős parlamenti delegációkból jöttek létre
+
+    Magyarország önállósága
+    -> felelős kormány alakul
+    -> első miniszterelnök: gróf Andrássy Gyula
+    -> népképviseleti országgyűlés (cenzusos választójog)
+    -> Magyarország és Erdély egyesül
+    -> visszaáll a vármegyei önkormányzat
+    -> Magyarország belügyekben teljesen önálló
+
+    Gazdasági kiegyezés
+    -> közös vámhatár és valuta
+    -> szabad tőke- és mukaerő áramlás
+    -> a közös ügyeket Magyarország és Ausztria 30-70% arányban fedezi (gazdasági fejlettségnek megfelelően)
+}
+Kiegyezés értékelése {
+    Kossuth szkeptikusan áll a kiegyezéshez: OMM helyett Dunai Konföderációs Tervet javasol
+    -> Cassandra-levél: Kossuth nyílt levele Deáknak, bírálja a közös hadügyet (Trianon előrevetítése)
+}

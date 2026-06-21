@@ -1,3 +1,44 @@
 15. tétel - Az OMM Felbomlása és a Trianoni Békeszerződés
 https://www.youtube.com/watch?v=RcUiuxs7rSQ
 https://www.youtube.com/watch?v=bGJWEaWW8Sk
+
+Háború következményei {
+    -------------------------------------------------------------------------------------
+    | Előzmény:                                                                         |
+    | világháború után válsághelyzet alakul ki Magyarországon                           |
+    | -> 1918: őszirózsás forradalom => Károlyi Mihály lesz a miniszterelnök            |
+    | -> Károlyi nem tudja kezelni a válsághelyzetet => lemond                          |
+    | => Magyarországon kikiáltják a köztársaságot => OMM hivatalos megszűnése          |
+    |                                                                                   |
+    | Vyx jegyzék: Antant követeli az ország keleti részének feladását                  |
+    | -> a kormány nem hajlandó elfogadni => a kormány is lemond                        |
+    | => KMP kerül hatalomra -> Kun Béla vezetésével megalakul a Tanácsköztársaság      |
+    | -> válság helyzet tovább fokozódik ("vörös terror", román hadsereg bevonulása)    |
+    | => Horthy Miklós vezetésével ellenkormány alakul Szegeden                         |
+    | -> Horthy bevonul Budapestre => Tanácsköztársaság bukása                          |
+    |                                                                                   |
+    | Magyarország ismét királyság lesz, kormányzója Horthy Miklós                      |
+    | -> békeküldöttség Párizsba Apponyi Albert vezetésével                             |
+    -------------------------------------------------------------------------------------
+    küldöttség érkezik párizsba: kész béketervezettel állnak szemben
+    -> Teleki Pál a béke felülvizsgálatát indítványozza (Vörös Térkép)
+    => a küldöttség nem jár sikerrel, kénytelen aláírni a békét
+    => 1920 jún 4: trianoni béke
+        -Magyarország elveszíti területeinek 2/3 részét
+        -jóvátétel fizetése
+        -magyar hadsereg létszámát 35 ezer főre korlátozzák
+}
+Trianon következményei {
+    Társadalmi következmények:
+        -a lakosság 18 millió főről 7,5 millióra csökken
+        -~400 ezer magyar költözik vissza az elcsatolt területekről
+            => lakhatási válság -> "vagonlakók"
+        -magyar irredenta mozgalmak felerősödése
+
+    Gazdasági következmények:
+        -sugaras vasúthálózat szétesése => használhatatlan infrastruktúra (bombázások miatt is)
+        -nyersanyaglelőhelyek elszakadnak a feldolgozóüzemektől
+        -gyárak zárnak be => munkanélküliség
+        -ellenséges viszony a szomszédországokkal (Kisantant)
+            => Magyarország protekcionista gazdaságpolitikára kényszerült
+}

@@ -1,3 +1,40 @@
 14. tétel - Az I. Világháború Jellege, Jellemzői
 https://www.youtube.com/watch?v=kB4Xjgtb-yE
 https://www.youtube.com/watch?v=dduoYgBBznY
+
+A háború kirobbanása {
+    -----------------------------------------------------------------------------
+    | Előzmény:                                                                 |
+    | 1882: megalakul a Központi hatalmak blokkja                               |
+    |    -tagjai: Németország, OMM, Olaszország                                 |
+    | -> készülnek a háborúra (haditerv, hadianyag, erős hátország)             |
+    | 1907: megalakul az Antant                                                 |
+    |    -tagjai: Oroszország, Franciaország, Anglia (legfőbb gyarmattartók)    |
+    | -> kétszeres létszám (katonaság, lakosság)                                |
+    -----------------------------------------------------------------------------
+    ellentétek: Német-Francia viszony, gyarmati viszályok
+    1914 jún 28: merénylet Ferenc Ferdinánd ellen Szarajevóban (Balkán)
+    => OMM hadat üzen Szerbiának (I. világháború kezdete)
+    => Oroszország Szerbia védelmére kel
+    => Németország hadat üzen Oroszországnak, majd Franciaországnak
+    => Nagy-Britannia hadat üzen Németországnak (Belgium lerohanása miatt)
+    => Az OMM hadat üzen Oroszországnak, ezzel a konfliktus globális méretűvé válik
+}
+A háború évei {
+    villámháború helyett állóháború alakul ki
+    => lövészárkokkal védekeznek a tűzerő ellen (géppuska, tank, aknavető)
+    ---------------------------------------------------------------------------------------
+    | Év   | Központi Hatalmak                             | Antant                       |
+    |------|-----------------------------------------------|------------------------------|
+    | 1914 | Törökország belép, Olaszország semleges marad |               -              |
+    | 1915 | Bulgária belép, (Olaszország kilép)           | Olaszország belép            |
+    | 1916 | (Ferenc Ferdinánd halála, hátország kimerül)  | Románia belép                |
+    | 1917 | (IV. Károly békekötési kísérlete)             | Oroszország kilép, USA belép |
+    ---------------------------------------------------------------------------------------
+    az USA belépése eldönti a háborút
+    => 1918: az OMM és Németország fegyverszünetet köt
+
+    párizs környéki békék: Központi hatalmak tagjaira kényszerített diktátumok
+        -1919 jún 28: versaillesi béke a németekkel
+        -1920 jún 4: trianoni béke a magyarokkal
+}
